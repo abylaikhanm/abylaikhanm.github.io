@@ -1,6 +1,7 @@
 ---
 title: "Senior Teaching Assistant"
 collection: teaching
+permalink: /teaching/2023-spring-teaching-1
 type: "Applied Engineering Computer Methods"
 venue: "P.C. Rossin College of Engineering and Applied Science, Lehigh University"
 date: 2023-12-01
