@@ -30,6 +30,8 @@ Outside of engineering, I love traveling and working outdoors 🌿. Since I was 
 
 > **December 2023**: Began research at the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) 🔬.
 
+> **November 2023**: Our team submitted the [first proposal](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view) to the NASA CubeSat Launch Initiative Program to get funding and a spot on the SpaceX rocket to launch a satellite in space.
+
 > **August 2023**: Started my Bachelor of Science in Mechanical Engineering at Lehigh University 👨‍💻.
 
 > **June 2023**: Won a $5,000 grant and was recognized as a Top-3 SpaceTech Startup at the Central Asia Venture Forum 🚀.
