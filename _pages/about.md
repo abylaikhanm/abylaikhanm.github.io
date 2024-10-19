@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Abylaikhan! I am a Software Engineer with experience in ML and cloud technologies. I am also from a beautiful country of Kazakhstan 🇰🇿.
+Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in ML and cloud technologies. I am also from a beautiful country of Kazakhstan 🇰🇿.
 
 Along with my passion for Machine/Deep Learning technologies and Software Engineering, I am deeply interested in topics related to Neuroscience, Cognitive Science, and Philosophy. I believe that the link between the brain and AI is what will shape the future of humanity.
 
