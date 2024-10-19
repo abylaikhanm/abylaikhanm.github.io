@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechanical Design, Mechatronics and Robotics. I am also from a beautiful country of Kazakhstan 🇰🇿.
 
-My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 🚀
+My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 👽
 
 Along with my passion for Engineering and Research, I am deeply interested in travelling and working outdoors 🌿. By engaging in hands-on projects at my country house—like constructing a gazebo, custom greenhouse, cart, and outdoor pellet stove—I have truly understood the essence of engineering.
 
@@ -18,7 +18,7 @@ In addition to my academic pursuits, I founded SkillSat, an EdTech startup in Ce
 
 ## News
 
-> June 17, 2024: Started working on the 
+> Sep, 2024: Started working on the [Bio-Inspired Riverine Power Generation Project]([https://m3-learning.com/](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation))
 
 > June 17, 2024: Michael Levin Award
 
@@ -26,6 +26,8 @@ In addition to my academic pursuits, I founded SkillSat, an EdTech startup in Ce
 
 > June 5, 2020: Started research @ [Unsteady...](https://m3-learning.com/)
 
-> August 24, 2020: Started my Bachelor of Science Degree in Computer Science and Business @ Lehigh University 👨‍💻
+> August, 2023: Started my Bachelor of Science Degree in Computer Science and Business @ Lehigh University 👨‍💻
 
-> May 25, 2020: Graduated from Nazarbayev Intellectual School of Physics and Mathematics Direction in Kokshetau, Kazakhstan 🇰🇿 
+> June, 2023: Won a 5000$ grant and was recognized as Top-3 SpaceTech Startup on the Central Asia Venture Forum
+
+> May, 2023: Graduated from Nazarbayev Intellectual School of Physics and Mathematics Direction in Kokshetau, Kazakhstan 🇰🇿 
