@@ -8,30 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in ML and cloud technologies. I am also from a beautiful country of Kazakhstan 🇰🇿.
+Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechanical Design, Mechatronics and Robotics. I am also from a beautiful country of Kazakhstan 🇰🇿.
 
-Along with my passion for Machine/Deep Learning technologies and Software Engineering, I am deeply interested in topics related to Neuroscience, Cognitive Science, and Philosophy. I believe that the link between the brain and AI is what will shape the future of humanity.
+My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 🚀
 
-In addition to my academic pursuits, I am an avid martial artist with 15+ years of experience in karate (I am 2nd-degree black belt🥋). Martial arts have taught me discipline, courage, persistence, and humility, which are important in my life. I enjoy reading books, playing guitar, and sharing my thoughts in my [blog on Telegram](https://t.me/abekek_notes).
+Along with my passion for Engineering and Research, I am deeply interested in travelling and working outdoors 🌿. By engaging in hands-on projects at my country house—like constructing a gazebo, custom greenhouse, cart, and outdoor pellet stove—I have truly understood the essence of engineering.
+
+In addition to my academic pursuits, I founded SkillSat, an EdTech startup in Central Asia focused on manufacturing STEM kits that teach students to build stratospheric satellites. Collaborating with former astronauts, we launched these satellites using large stratospheric balloons to near space. We raised $15k in funding and entered the Top-3 SpaceTech, Top-15 EdTech Startup by Forbes Kazakhstan. 🚀
 
 ## News
 
-> June 17, 2024: Joining Amazon Web Services (AWS) as a full-time Software Development Engineer
+> June 17, 2024: Started working on the 
 
-> May 19, 2024: I graduated with High Honors from Lehigh University with a Bachelor of Science in Computer Science and Business 👨‍🎓
+> June 17, 2024: Michael Levin Award
 
-> Oct 27, 2023: My paper ["Rapid Fitting of Band-Excitation Piezoresponse Force Microscopy Using Physics Constrained Unsupervised Neural Networks"](https://neurips.cc/virtual/2023/78566) was accepted to NeurIPS 2023 AI for Materials Discovery Workshop in New Orleans, LA 🎉
+> October 27, 2020: Won a scholarship to work at Summer
 
-> May 30, 2023: Started my Software Development Engineer Internship at Amazon Web Services (AWS) for Summer 2023 💻
-
-> October 8, 2022: Presented my work about "Rapid Fitting of Band-Excitation Piezoresponse Force Microscopy Using Physics Constrained Unsupervised Neural Networks" at Gulf Coast Undergraduate Research Symposium (GCURS) at Rice University, Houston, TX 🦉
-
-> October 4, 2022: Presented my work about "Rapid Fitting of Band-Excitation Piezoresponse Force Microscopy Using Physics Constrained Unsupervised Neural Networks" at [Fast ML for Science Workshop](https://indico.cern.ch/event/1156222/timetable/?view=standard_inline_minutes) at Southern Methodist University, Dallas, TX
-
-> October 27, 2020: Presented my work on "Pre-trained Deep-Learning Models for Rapid Analysis of Piezoelectric Hysteresis Loops" at Gulf Coast Undergraduate Research Symposium (GCURS) at Rice University, Houston, TX 🦉
+> June 5, 2020: Started research @ [Unsteady...](https://m3-learning.com/)
 
 > August 24, 2020: Started my Bachelor of Science Degree in Computer Science and Business @ Lehigh University 👨‍💻
 
-> June 5, 2020: Started research @ [Multifunctional Materials and Machine Learning Group (m3-learning)](https://m3-learning.com/)
-
-> May 25, 2020: Graduated from Nazarbayev Intellectual School of Physics and Mathematics Direction in Almaty, Kazakhstan 🇰🇿 
+> May 25, 2020: Graduated from Nazarbayev Intellectual School of Physics and Mathematics Direction in Kokshetau, Kazakhstan 🇰🇿 
