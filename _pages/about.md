@@ -17,16 +17,21 @@ Along with my passion for Engineering and Research, I am deeply interested in tr
 In addition to my academic pursuits, I founded SkillSat, an EdTech startup in Central Asia focused on manufacturing STEM kits that teach students to build stratospheric satellites. Collaborating with former astronauts, we launched these satellites using large stratospheric balloons to near space. We raised $15k in funding and entered the Top-3 SpaceTech, Top-15 EdTech Startup by Forbes Kazakhstan. 🚀
 
 ## News
+> October, 2024: Our team raised $150K in funding to build and launch OSPREY Cubesat, Lehigh’s first nanosatellite
 
-> Sep, 2024: Started working on the [Bio-Inspired Riverine Power Generation Project]([https://m3-learning.com/](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation))
+> September, 2024: Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation)
 
-> June 17, 2024: Michael Levin Award
+> July, 2024: Presented my work about [“Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies”](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view) at the Mountain Top Science Conference @ Lehigh 
 
-> October 27, 2020: Won a scholarship to work at Summer
+> July, 2024: Started working with [Aerotargets International](http://www.aerotargets.com/)
 
-> June 5, 2020: Started research @ [Unsteady...](https://m3-learning.com/)
+> May, 2024: Won a prestigious STEM-SI Scholarship to work as an Undergraduate Research Intern at Summer
 
-> August, 2023: Started my Bachelor of Science Degree in Computer Science and Business @ Lehigh University 👨‍💻
+> April, 2024: Received Michael Levin Advanced Technology Award for the Best Technological Startup @ Lehigh
+
+> December, 2023: Started research @ [Unsteady Flow Interaction Laboratory](https://wordpress.lehigh.edu/kwm213/)
+
+> August, 2023: Started my Bachelor of Science Degree in Mechanical Engineering @ Lehigh University 👨‍💻
 
 > June, 2023: Won a 5000$ grant and was recognized as Top-3 SpaceTech Startup on the Central Asia Venture Forum
 
