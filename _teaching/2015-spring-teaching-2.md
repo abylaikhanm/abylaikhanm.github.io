@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Makerspace Coordinator"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Design Labs"
+permalink: /teaching/teaching-2
+venue: "Lehigh University"
+date: 2024-01-01
+location: "Bethlehem, PA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I manage over 30 3D printers, 2 CNC routers, waterjet and laser cutters, and a PCB milling machine. I assist in rapid prototyping for over 30 students and 10 clubs weekly, supporting more than 60 cross-disciplinary projects each semester.
