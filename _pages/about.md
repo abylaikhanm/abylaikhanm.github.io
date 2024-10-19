@@ -12,9 +12,7 @@ Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechani
 
 My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 👽
 
-Along with my passion for Engineering and Research, I am deeply interested in travelling and working outdoors 🌿. By engaging in hands-on projects at my country house—like constructing a gazebo, custom greenhouse, cart, and outdoor pellet stove—I have truly understood the essence of engineering.
-
-In addition to my academic pursuits, I founded SkillSat, an EdTech startup in Central Asia focused on manufacturing STEM kits that teach students to build stratospheric satellites. Collaborating with former astronauts, we launched these satellites using large stratospheric balloons to near space. We raised $15k in funding and entered the Top-3 SpaceTech, Top-15 EdTech Startup by Forbes Kazakhstan. 🚀
+Outside of engineering, I love traveling and working outdoors 🌿. Since I was 7, I’ve built projects at my country house like a gazebo, greenhouse, cart, and pellet stove. These experiences taught me how engineering can solve real-world problems. I also enjoy cooking over a campfire and playing guitar for relaxation.
 
 ## News
 
