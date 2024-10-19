@@ -2,18 +2,11 @@
 title: "Senior Teaching Assistant"
 collection: teaching
 type: "Applied Engineering Computer Methods"
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "P.C. Rossin College of Engineering and Applied Science, Lehigh University"
+date: 2023-12-01
+location: "Bethlehem, PA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teach 500+ students Python programming and hardware integration, improving their problem-solving skills through weekly lab sessions and hands-on projects with Raspberry Pi and Arduino.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
