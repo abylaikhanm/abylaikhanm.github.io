@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechanical Design, Mechatronics and Robotics. I am also from a beautiful country of Kazakhstan 🇰🇿.
+Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechanical Design, Mechatronics, and Robotics. I am also from the beautiful country of Kazakhstan 🇰🇿.
 
-My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 👽
+My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 🚀 These experiences have enhanced my skills in C/C++, MATLAB, Simulink, SolidWorks, and given me hands-on experience in embedded systems, control, and mechanical design.
 
-Outside of engineering, I love traveling and working outdoors 🌿. Since I was 7, I’ve built projects at my country house like a gazebo, greenhouse, cart, and pellet stove. These experiences taught me how engineering can solve real-world problems. I also enjoy cooking over a campfire and playing guitar for relaxation.
+Outside of engineering, I love traveling and working outdoors 🌿. Since I was seven, I’ve built projects at my country house like a gazebo, greenhouse, cart, and pellet stove. These experiences have taught me how engineering can solve real-world problems. I also enjoy cooking over a campfire and playing guitar for relaxation.
 
 ## News
 
