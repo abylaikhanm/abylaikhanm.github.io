@@ -11,22 +11,16 @@ author_profile: true
 **Lehigh University, Bethlehem, PA**  
 *Nov 2023 – Present*
 
+# Bio-Inspired Riverine Power Generation
 - Designed a bio-inspired setup to mimic pitch and heave movements in flexible hydrofoils for the investigation of hydrodynamic performance and quiet underwater vehicle development, part of a $7.5M U.S. Department of Defense-funded project.
 - Integrated and calibrated a particle image velocimetry system, high-torque step motors, and a 6-axis force sensor.
 - Designed, built, and tested experimental setups using **SolidWorks**, **CNC milling**, **waterjet cutting**, and **3D printing**.
 - Conducted 35 water channel experiments utilizing **NI DAQ** and **MATLAB** to evaluate hydrodynamic performance and stability.
 - Improved movement accuracy by 98.2%, a 1.75x improvement over the previous design, and reduced noise by 32% through closed-loop velocity control.
 
----
-
-## Structures System Lead - NASA CubeSat Student Launch Initiative
-**Lehigh University, Bethlehem, PA**  
-*Sep 2023 – Present*
-
-- Led the structural design of **OSPREY**, a 3U CubeSat equipped with a VS/SWIR camera system to monitor ocean plastic over a 1-square-meter area.
-- Managed a team of 6 students, coordinating efforts with other sub-teams to integrate deployable solar cells and antenna systems.
-- Secured $125,000 in funding and submitted a successful proposal to the **NASA CubeSat Launch Initiative**.
-- Optimized the satellite’s mass budget by 23% and increased payload volume by 33%, ensuring compliance with NASA’s strict design specifications.
+# Bio-Inspired Riverine Power Generation
+- Contributed to a project developing a hydrokinetic turbine, using bio-inspired hydrofoils to convert motion into electricity, funded by the U.S. DOD and DOE.
+- Boosted power generation output by 57% by implementing a wireless communication system for real-time data analysis and control.
 
 ---
 
@@ -41,11 +35,6 @@ author_profile: true
 
 ---
 
-## Bio-Inspired Riverine Power Generation
-**Lehigh University, Bethlehem, PA**  
-*Aug 2024 – Present*
 
-- Contributed to a project developing a hydrokinetic turbine, using bio-inspired hydrofoils to convert motion into electricity, funded by the U.S. DOD and DOE.
-- Boosted power generation output by 57% by implementing a wireless communication system for real-time data analysis and control.
 
 
