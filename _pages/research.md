@@ -10,15 +10,10 @@ author_profile: true
 *Nov 2023 – Present*
 
 ### Pitch and Heave Setup
-- Designed a bio-inspired setup to mimic pitch and heave movements in flexible hydrofoils for the investigation of hydrodynamic performance and quiet underwater vehicle development, part of a $7.5M U.S. Department of Defense-funded project.
-- Integrated and calibrated a particle image velocimetry system, high-torque step motors, and a 6-axis force sensor.
-- Designed, built, and tested experimental setups using **SolidWorks**, **CNC milling**, **waterjet cutting**, and **3D printing**.
-- Conducted 35 water channel experiments utilizing **NI DAQ** and **MATLAB** to evaluate hydrodynamic performance and stability.
-- Improved movement accuracy by 98.2%, a 1.75x improvement over the previous design, and reduced noise by 32% through closed-loop velocity control.
+I worked on a research project as part of the Multi-disciplinary University Research Initiatives award (MURI - $7.5M U.S. Department of Defense-funded project), collaborating with Princeton University, Harvard University, and the University of Virginia. The project focused on investigating the hydrodynamics of bio-robotic schooling systems for high-speed and high-efficiency swimming. designing the experimental apparatus and developing the data acquisition architecture. y contributions included designing the experimental apparatus, integrating and calibrating a particle image velocimetry system, high-torque step motors, and a 6-axis force sensor. This work resulted in improved movement accuracy by 98.2% and a 32% reduction in noise, demonstrating a significant enhancement over previous designs through the implementation of closed-loop velocity control. Please take a look at my poster below for more technical details of this research project.
 
 ### Bio-Inspired Riverine Power Generation
-- Contributed to a project developing a hydrokinetic turbine, using bio-inspired hydrofoils to convert motion into electricity, funded by the U.S. DOD and DOE.
-- Boosted power generation output by 57% by implementing a wireless communication system for real-time data analysis and control.
+I contributed to a research project under the supervision of Prof. Keith Moored, funded by the U.S. Department of Defense (DOD) and the U.S. Department of Energy (DOE). The project focused on developing a hydrokinetic turbine utilizing bio-inspired hydrofoils to convert water flow into electricity, aiming to provide renewable energy solutions suitable for both remote villages and large cities. My responsibilities included designing and implementing a wireless communication system for closed-loop control and real-time data acquisition, which enhanced power generation output by 57%. This advancement underscores the potential of bio-inspired technologies in achieving efficient and sustainable energy production.
 
 ---
 
