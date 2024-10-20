@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
-##Lehigh University, Bethlehem, PA##  
+***Lehigh University, Bethlehem, PA***  
 *Nov 2023 – Present*
 
 ### Pitch and Heave Setup
