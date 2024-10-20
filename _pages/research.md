@@ -36,5 +36,5 @@ I worked on the Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTarg
 I worked on a VR/AR/XR project focused on visualizing the nanoscale topography of perovskite solar cells, using data from Atomic Force Microscopy (AFM). This project is part of emerging renewable energy research, where understanding surface characteristics is critical for improving device performance. My CAD skills were key to interpreting AFM data, aiding in the design of more efficient preparation procedures. I worked on AR model for users to explore the cell’s surface topography in 3D, enhancing comprehension of its structure and performance.
 
 
-## "Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies"
+## Research Poster for the Mountain Top Research Conference @ Lehigh University
 ![pic](/images/poster.png)
