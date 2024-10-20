@@ -11,7 +11,7 @@ author_profile: true
 **Lehigh University, Bethlehem, PA**  
 *Nov 2023 – Present*
 
-### Bio-Inspired Riverine Power Generation
+### Pitch and Heave Setup
 - Designed a bio-inspired setup to mimic pitch and heave movements in flexible hydrofoils for the investigation of hydrodynamic performance and quiet underwater vehicle development, part of a $7.5M U.S. Department of Defense-funded project.
 - Integrated and calibrated a particle image velocimetry system, high-torque step motors, and a 6-axis force sensor.
 - Designed, built, and tested experimental setups using **SolidWorks**, **CNC milling**, **waterjet cutting**, and **3D printing**.
@@ -24,7 +24,7 @@ author_profile: true
 
 ---
 
-## Research Intern - Aerospace Systems Control Lab
+## Research Intern - Aerospace Systems Control Laboratory
 **Lehigh University, Bethlehem, PA**  
 *May 2024 – Aug 2024*
 
@@ -35,6 +35,13 @@ author_profile: true
 
 ---
 
+## Undergraduate Researcher - Nano Human Interfaces Presidential Initiative
+**Lehigh University, Bethlehem, PA**  
+*Sep 2023 – May 2024*
 
+- Led wind tunnel testing on AeroTargets' 33% scale **LOCOST UAV**, focusing on lift, drag, and stability performance.
+- Acquired and analyzed over 100 experimental data sets using **LabVIEW**, **MATLAB**, and **NI DAQ**.
+- Measured aerodynamic forces with a 6-axis force sensor and validated results at Reynolds numbers 20% higher than expected.
+- Communicated design recommendations to AeroTargets engineers, leading to a 10% reduction in the UAV's drag coefficient.
 
 
