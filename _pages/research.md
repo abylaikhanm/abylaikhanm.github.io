@@ -21,10 +21,7 @@ I contributed to a research project under the supervision of Prof. Keith Moored,
 **Lehigh University, Bethlehem, PA**  
 *May 2024 – Aug 2024*
 
-- Led wind tunnel testing on AeroTargets' 33% scale **LOCOST UAV**, focusing on lift, drag, and stability performance.
-- Acquired and analyzed over 100 experimental data sets using **LabVIEW**, **MATLAB**, and **NI DAQ**.
-- Measured aerodynamic forces with a 6-axis force sensor and validated results at Reynolds numbers 20% higher than expected.
-- Communicated design recommendations to AeroTargets engineers, leading to a 10% reduction in the UAV's drag coefficient.
+I worked on the Wind Tunnel Test Program (WTTP) for the LOCOST UAV as part of a project with AeroTargets International at Lehigh University's wind tunnel facility, under the supervision of Prof. Keith Moored. This project focused on gathering aerodynamic data for a 33% scale model of the LOCOST uncrewed aerial vehicle (UAV) to improve its lift and drag characteristics. My responsibilities included designing the experimental setup, data acquisition using a six-axis force/torque sensor, and operating the wind tunnel under varying conditions. I measured key aerodynamic parameters, including lift and drag coefficients, over a range of Reynolds numbers. The data collected was essential in optimizing the UAV's design for better flight stability and aerodynamic performance, ultimately reducing the vehicle’s drag by 10%.
 
 ---
 
@@ -32,9 +29,5 @@ I contributed to a research project under the supervision of Prof. Keith Moored,
 **Lehigh University, Bethlehem, PA**  
 *Sep 2023 – May 2024*
 
-- Led wind tunnel testing on AeroTargets' 33% scale **LOCOST UAV**, focusing on lift, drag, and stability performance.
-- Acquired and analyzed over 100 experimental data sets using **LabVIEW**, **MATLAB**, and **NI DAQ**.
-- Measured aerodynamic forces with a 6-axis force sensor and validated results at Reynolds numbers 20% higher than expected.
-- Communicated design recommendations to AeroTargets engineers, leading to a 10% reduction in the UAV's drag coefficient.
 
 
