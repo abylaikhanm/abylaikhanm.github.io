@@ -18,7 +18,7 @@ Outside of engineering, I love traveling and working outdoors 🌿. Since I was 
 
 > October 2024: Our team raised $150K in funding to build and launch OSPREY, Lehigh’s first Nanosatellite 🛰️.
 
-> September 2024: Began working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊🔋.
+> September 2024: Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊.
 
 > August 2024: Started a new position as MakerSpace Coordinator at Design Labs @ Lehigh University!
 
