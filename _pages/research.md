@@ -1,7 +1,7 @@
 ---
-permalink: /research
-title: "Hello there! 👋"
-excerpt: "Hello there 👋"
+permalink: /research/
+title: "Research Experience"
+excerpt: "Research Experience"
 author_profile: true
 ---
 
