@@ -18,13 +18,13 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /files/abylaikhan_portfolio.pdf/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/abylaikhan_resume.pdf/
     
 #  - title: "Guide"
 #    url: /markdown/
