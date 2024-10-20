@@ -21,6 +21,8 @@ I contributed to a research project under the supervision of Prof. Keith Moored,
 **Lehigh University, Bethlehem, PA**  
 *May 2024 – Aug 2024*
 
+### [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/)
+
 I worked on the Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTargets International at Lehigh University, under Prof. Keith Moored. The project aimed to improve lift and drag characteristics for a 33% scale UAV model. I designed the experimental setup, conducted data acquisition using a six-axis force/torque sensor, and operated the wind tunnel. The aerodynamic data collected helped optimize the UAV's design, reducing its drag by 10%.
 
 ---
@@ -29,5 +31,8 @@ I worked on the Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTarg
 **Lehigh University, Bethlehem, PA**  
 *Sep 2023 – May 2024*
 
+### [Nanoscale Topography of Perovskite Solar Cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface)
+
+I worked on a VR/AR/XR project focused on visualizing the nanoscale topography of perovskite solar cells, using data from Atomic Force Microscopy (AFM). This project is part of emerging renewable energy research, where understanding surface characteristics is critical for improving device performance. My CAD skills were key to interpreting AFM data, aiding in the design of more efficient preparation procedures. I worked on AR model for users to explore the cell’s surface topography in 3D, enhancing comprehension of its structure and performance.
 
 
