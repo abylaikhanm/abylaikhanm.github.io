@@ -5,37 +5,47 @@ excerpt: "Research Experience"
 author_profile: true
 ---
 
-Hi, my name is Abylaikhan! I am a Mechanical Engineer with experience in Mechanical Design, Mechatronics, and Robotics. I am also from the beautiful country of Kazakhstan 🇰🇿.
+# Research Experience
 
-My current work involves researching bio-inspired underwater propulsion systems and leading the mechanical design of Lehigh’s first nanosatellite project, which has raised $150K in funding for its future launch into space! 🚀 These experiences have enhanced my skills in C/C++, MATLAB, Simulink, SolidWorks, and given me hands-on experience in embedded systems, control, and mechanical design.
+## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
+**Lehigh University, Bethlehem, PA**  
+*Nov 2023 – Present*
 
-Outside of engineering, I love traveling and working outdoors 🌿. Since I was seven, I’ve built projects at my country house like a gazebo, greenhouse, cart, and pellet stove. These experiences have taught me how engineering can solve real-world problems. I also enjoy cooking over a campfire and playing guitar for relaxation.
+- Designed a bio-inspired setup to mimic pitch and heave movements in flexible hydrofoils for the investigation of hydrodynamic performance and quiet underwater vehicle development, part of a $7.5M U.S. Department of Defense-funded project.
+- Integrated and calibrated a particle image velocimetry system, high-torque step motors, and a 6-axis force sensor.
+- Designed, built, and tested experimental setups using **SolidWorks**, **CNC milling**, **waterjet cutting**, and **3D printing**.
+- Conducted 35 water channel experiments utilizing **NI DAQ** and **MATLAB** to evaluate hydrodynamic performance and stability.
+- Improved movement accuracy by 98.2%, a 1.75x improvement over the previous design, and reduced noise by 32% through closed-loop velocity control.
 
-## News
+---
 
-> October 2024: Our team raised $150K in funding to build and launch OSPREY, Lehigh’s first Nanosatellite 🛰️.
+## Structures System Lead - NASA CubeSat Student Launch Initiative
+**Lehigh University, Bethlehem, PA**  
+*Sep 2023 – Present*
 
-> September 2024: Began working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊🔋.
+- Led the structural design of **OSPREY**, a 3U CubeSat equipped with a VS/SWIR camera system to monitor ocean plastic over a 1-square-meter area.
+- Managed a team of 6 students, coordinating efforts with other sub-teams to integrate deployable solar cells and antenna systems.
+- Secured $125,000 in funding and submitted a successful proposal to the **NASA CubeSat Launch Initiative**.
+- Optimized the satellite’s mass budget by 23% and increased payload volume by 33%, ensuring compliance with NASA’s strict design specifications.
 
-> August 2024: Started a new position as MakerSpace Coordinator at Design Labs @ Lehigh University!
+---
 
-> August 2024: Presented my work, ["Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies"](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view), at the Mountain Top Science Conference at Lehigh 🎤.
+## Research Intern - Aerospace Systems Control Lab
+**Lehigh University, Bethlehem, PA**  
+*May 2024 – Aug 2024*
 
-> July 2024: Started working with [Aerotargets International](http://www.aerotargets.com/) ✈️.
+- Led wind tunnel testing on AeroTargets' 33% scale **LOCOST UAV**, focusing on lift, drag, and stability performance.
+- Acquired and analyzed over 100 experimental data sets using **LabVIEW**, **MATLAB**, and **NI DAQ**.
+- Measured aerodynamic forces with a 6-axis force sensor and validated results at Reynolds numbers 20% higher than expected.
+- Communicated design recommendations to AeroTargets engineers, leading to a 10% reduction in the UAV's drag coefficient.
 
-> May 2024: Awarded the prestigious STEM-SI Scholarship to work as an Undergraduate Research Intern over the summer 🏅.
+---
 
-> April 2024: Received the Michael Levin Advanced Technology Award for Best Technological Startup at Lehigh 🏆.
+## Bio-Inspired Riverine Power Generation
+**Lehigh University, Bethlehem, PA**  
+*Aug 2024 – Present*
 
-> December 2023: Started a new position as Senior Teaching Assistant for Applied Engineering Computer Methods.
+- Contributed to a project developing a hydrokinetic turbine, using bio-inspired hydrofoils to convert motion into electricity, funded by the U.S. DOD and DOE.
+- Boosted power generation output by 57% by implementing a wireless communication system for real-time data analysis and control.
 
-> December 2023: Began research at the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) 🔬.
-
-> November 2023: Our team submitted the [first proposal](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view) to the NASA CubeSat Launch Initiative Program to get funding and a spot on the SpaceX rocket to launch a satellite in space.
-
-> August 2023: Started my Bachelor of Science in Mechanical Engineering at Lehigh University 👨‍💻.
-
-> June 2023: Won a $5,000 grant and was recognized as a Top-3 SpaceTech Startup at the Central Asia Venture Forum 🚀.
-
-> May 2023: Graduated from Nazarbayev Intellectual School of Physics and Mathematics in Kokshetau, Kazakhstan 🎓🇰🇿.
 
