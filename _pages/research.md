@@ -5,8 +5,6 @@ excerpt: "Research Experience"
 author_profile: true
 ---
 
-# Research Experience
-
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
 **Lehigh University, Bethlehem, PA**  
 *Nov 2023 – Present*
