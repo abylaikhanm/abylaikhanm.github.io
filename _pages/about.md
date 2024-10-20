@@ -22,7 +22,7 @@ Outside of engineering, I love traveling and working outdoors 🌿. Since I was 
 
 > August 2024: Started a new position as MakerSpace Coordinator at Design Labs @ Lehigh University!
 
-> August 2024: Presented my work, ["Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies"](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view), at the Mountain Top Science Conference at Lehigh 🎤.
+> August 2024: Presented my work, ["Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies"](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view), at the Mountain Top Research Conference at Lehigh 🎤.
 
 > July 2024: Started working with [Aerotargets International](http://www.aerotargets.com/) ✈️.
 
