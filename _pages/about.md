@@ -16,7 +16,13 @@ Outside of engineering, I love traveling and working outdoors 🌿. Since I was 
 
 ## News
 
-> October 2024: Our team raised $150K in funding to build and launch OSPREY, Lehigh’s first Nanosatellite 🛰️.
+> October 2025: Presented WAP project progress at the Annual DoD MURI Meeting at Lehigh University, showcasing experimental validation and control integration of the cyber-physical testbed.  
+
+> September 2025: 📄 Abstract accepted for presentation at both the APS Division of Fluid Dynamics (DFD) and ASME International Mechanical Engineering Congress & Exposition (IMECE) conferences.  
+
+> May 2025: Awarded the Rossin Research Fellowship to work in the Unsteady Flow Interactions Lab on cyber-physical systems for wave-assisted propulsion (WAP).  
+
+> December 2024: 🚀 Our team raised $200K in funding to build and launch OSPREY, Lehigh’s first Nanosatellite 🛰️.
 
 > September 2024: Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊.
 
