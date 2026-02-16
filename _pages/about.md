@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Abylaikhan Mukhamejanov"
+title: "Hello there 👋"
 excerpt: "Mechanical Engineering Researcher | Robotics | Bio-Inspired Propulsion"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
-
-<img src="/assets/images/profile.jpg" width="240" align="right" style="margin-left:20px; border-radius:12px;">
 
 ## About Me
 
