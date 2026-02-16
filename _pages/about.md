@@ -1,213 +1,161 @@
 ---
 permalink: /
 title: "Hello there 👋"
-excerpt: "Mechanical Engineering Researcher"
+excerpt: "Mechanical Engineering Researcher | Robotics | Bio-Inspired Propulsion"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<table style="width:100%;max-width:900px;margin:auto;border-spacing:0px;">
-<tr>
+<img src="/assets/images/profile.jpg" width="240" align="right" style="margin-left:20px; border-radius:12px;">
 
-<td style="width:35%;padding:20px;vertical-align:middle;">
+Hi, my name is **Abylaikhan Mukhamejanov**. I am a Mechanical Engineering student and Undergraduate Researcher at Lehigh University, working in the Unsteady Flow Interactions Laboratory under Prof. Keith Moored and PhD mentor Ata Ardıç.
 
-<img src="/assets/images/profile.jpg"
-style="width:100%;
-aspect-ratio:1/1;
-object-fit:cover;
-border-radius:50%;">
+My research focuses on uncovering the fluid–structure interactions underlying bio-inspired propulsion using cyber-physical fluid dynamics. I design and build robotic experimental systems integrating precision mechanical hardware, embedded sensors, and real-time control to investigate propulsion physics and enable next-generation autonomous underwater vehicles.
 
-</td>
+In parallel, I serve as Lead Mechanical Engineer for **OSPREY**, Lehigh University's first NASA CubeSat Launch Initiative nanosatellite, where I lead structural design, mechanical integration, and validation of spaceflight hardware.
 
-<td style="width:65%;padding:20px;vertical-align:middle;">
+My broader research interests include:
 
-## Abylaikhan Mukhamejanov
+- Bio-inspired robotics and propulsion  
+- Fluid–structure interactions  
+- Cyber-physical experimental systems  
+- Mechatronics and control  
+- Autonomous underwater and space systems  
 
-I am a Mechanical Engineering student and Undergraduate Researcher at Lehigh University, working in the Unsteady Flow Interactions Laboratory under Prof. Keith Moored and Ata Ardıç.
-
-My research focuses on uncovering the fluid–structure interactions underlying bio-inspired propulsion using cyber-physical fluid dynamics. I design robotic experimental systems integrating mechanical hardware, embedded sensing, and real-time control.
-
-I also serve as Lead Mechanical Engineer for OSPREY, Lehigh University's first NASA CubeSat Launch Initiative nanosatellite.
-
-My research interests include:
-
-- Bio-inspired robotics  
-- Fluid mechanics  
-- Cyber-physical systems  
-- Mechatronics  
-- Space systems engineering  
-
-Email: abm227@lehigh.edu  
-[LinkedIn](https://linkedin.com) | [Google Scholar](https://scholar.google.com)
-
-</td>
-</tr>
-</table>
+I am originally from Kazakhstan 🇰🇿, where I developed my passion for engineering through hands-on building and fabrication from a young age.
 
 ---
 
-## News
+# News
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
-<td style="padding:10px;">
+**Nov 2025** — Received Best Poster Award at the ASME IMECE Undergraduate Research Expo.
 
-**Nov 2025** — Received Best Poster Award at ASME IMECE  
+**Oct 2025** — Presented Cyber-Physical Fluid Dynamics research at the DoD MURI Meeting.
 
-**Oct 2025** — Presented Cyber-Physical Fluid Dynamics research  
+**Sept 2025** — Research accepted to APS Division of Fluid Dynamics and ASME IMECE conferences.
 
-**Sept 2025** — Research accepted to APS DFD and ASME IMECE  
+**May 2025** — Awarded Rossin Research Fellowship for Wave-Assisted Propulsion research.
 
-**May 2025** — Awarded Rossin Research Fellowship  
+**Dec 2024** — OSPREY CubeSat secured $200K in funding.
 
-**Dec 2024** — OSPREY CubeSat secured $200K funding  
+**Aug 2024** — Presented propulsion testbed at Lehigh Research Symposium.
 
-</td>
-</tr>
-</table>
+**Dec 2023** — Started research at the Unsteady Flow Interactions Laboratory.
 
 ---
 
-## Research
+# Research
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
+## Research Vision
 
-<td style="width:35%;padding:16px;">
+My research aims to uncover the physical mechanisms governing bio-inspired propulsion through tightly integrated cyber-physical experimental systems.
 
-<img src="/assets/images/wap_setup.jpg"
-style="width:100%;border-radius:10px;">
-
-</td>
-
-<td style="width:65%;padding:16px;vertical-align:middle;">
-
-### Cyber-Physical Fluid Dynamics System
-
-Developed experimental propulsion system integrating:
-
-- Mechanical hardware  
-- Embedded sensors  
-- Real-time control  
-
-This system enables experimental investigation of robotic propulsion physics.
-
-</td>
-</tr>
-</table>
-
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
-
-<td style="width:35%;padding:16px;">
-
-<img src="/assets/images/experiment.jpg"
-style="width:100%;border-radius:10px;">
-
-</td>
-
-<td style="width:65%;padding:16px;vertical-align:middle;">
-
-### Bio-Inspired Propulsion Experiments
-
-Designed and built robotic propulsion system for studying fluid–structure interactions.
-
-</td>
-</tr>
-</table>
+By combining mechanical design, embedded sensing, and real-time control, I develop robotic experimental platforms that enable controlled investigation of propulsion physics and fluid–structure interactions.
 
 ---
 
-## Projects
+## Cyber-Physical Fluid Dynamics System
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
+<img src="/assets/images/wap_setup.jpg" width="700" style="border-radius:12px;">
 
-<td style="width:35%;padding:16px;">
+This cyber-physical system integrates:
 
-<img src="/assets/images/cubesat.jpg"
-style="width:100%;border-radius:10px;">
+- Mechanical propulsion hardware  
+- Embedded sensing systems  
+- Real-time control architecture  
+- MATLAB and Simulink integration  
 
-</td>
+This platform enables precise experimental validation of propulsion physics.
 
-<td style="width:65%;padding:16px;vertical-align:middle;">
+---
 
-### OSPREY CubeSat — Lead Mechanical Engineer
+## Bio-Inspired Propulsion Experiments
 
-Leading structural design and mechanical integration.
+<img src="/assets/images/experiment_closeup.jpg" width="700" style="border-radius:12px;">
+
+This experimental system enables investigation of fluid–structure interactions in robotic propulsion systems.
+
+My contributions include:
+
+- Mechanical system design  
+- Sensor integration  
+- Control system development  
+
+---
+
+# Projects
+
+## OSPREY CubeSat — Lead Mechanical Engineer
+
+<img src="/assets/images/cubesat.jpg" width="700" style="border-radius:12px;">
+
+OSPREY is Lehigh University's first nanosatellite selected by NASA's CubeSat Launch Initiative.
+
+My responsibilities include:
+
+- Structural design  
+- Mechanical integration  
+- CAD design and validation  
+- Spaceflight hardware development  
 
 Funding secured: $200,000+
 
-</td>
-</tr>
-</table>
+---
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
+## Cyber-Physical Propulsion Testbed
 
-<td style="width:35%;padding:16px;">
+<img src="/assets/images/testbed.jpg" width="700" style="border-radius:12px;">
 
-<img src="/assets/images/fsae.jpg"
-style="width:100%;border-radius:10px;">
+Designed and built robotic propulsion experimental platform integrating:
 
-</td>
-
-<td style="width:65%;padding:16px;vertical-align:middle;">
-
-### Formula SAE Suspension Design
-
-Designed lightweight suspension components using CAD and structural analysis.
-
-</td>
-</tr>
-</table>
+- Mechanical hardware  
+- Sensors and actuators  
+- Embedded control systems  
 
 ---
 
-## Teaching
+## Formula SAE Suspension Design
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
+<img src="/assets/images/fsae.jpg" width="700" style="border-radius:12px;">
 
-<td style="width:35%;padding:16px;">
-
-<img src="/assets/images/teaching.jpg"
-style="width:100%;border-radius:10px;">
-
-</td>
-
-<td style="width:65%;padding:16px;vertical-align:middle;">
-
-### Senior Teaching Assistant — Lehigh University
-
-Teaching MATLAB, robotics, and engineering computation.
-
-</td>
-</tr>
-</table>
+Designed lightweight suspension components to improve vehicle performance using CAD design and structural analysis.
 
 ---
 
-## Hobbies
+# Teaching
 
-<table style="width:100%;max-width:900px;margin:auto;">
-<tr>
+<img src="/assets/images/teaching.jpg" width="700" style="border-radius:12px;">
 
-<td style="width:35%;padding:16px;">
+## Senior Teaching Assistant  
+Applied Engineering Computer Methods  
+Lehigh University  
 
-<img src="/assets/images/hobbies.jpg"
-style="width:100%;border-radius:10px;">
+Responsibilities include:
 
-</td>
+- Teaching MATLAB programming  
+- Supporting robotics laboratories  
+- Assisting student engineering projects  
+- Guiding computational engineering exercises  
 
-<td style="width:65%;padding:16px;vertical-align:middle;">
+---
 
-I enjoy building, traveling, guitar, and outdoor engineering projects.
+# Hobbies
 
-These hands-on experiences inspire my engineering work.
+<img src="/assets/images/hobbies.jpg" width="700" style="border-radius:12px;">
 
-</td>
-</tr>
-</table>
+Outside engineering, I enjoy building, traveling, and outdoor activities.
+
+From a young age, I built physical structures including gazebos, greenhouses, and mechanical systems.
+
+I also enjoy:
+
+- Playing guitar  
+- Traveling  
+- Outdoor construction  
+- Campfire cooking  
+
+These experiences inspire my creativity and engineering mindset.
+
+---
