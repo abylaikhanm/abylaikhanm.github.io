@@ -14,8 +14,6 @@ Hi, my name is **Abylaikhan Mukhamejanov**. I am a Mechanical Engineering studen
 
 My research focuses on uncovering the fluid–structure interactions underlying bio-inspired propulsion using cyber-physical fluid dynamics. I design and build robotic experimental systems integrating precision mechanical hardware, embedded sensors, and real-time control to investigate propulsion physics and enable next-generation autonomous underwater vehicles.
 
-In parallel, I serve as Lead Mechanical Engineer for **OSPREY**, Lehigh University's first NASA CubeSat Launch Initiative nanosatellite, where I lead structural design, mechanical integration, and validation of spaceflight hardware.
-
 My broader research interests include:
 
 - Bio-inspired robotics and propulsion  
