@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a Mechanical Engineering student and Undergraduate Researcher at Lehigh University, working in the Unsteady Flow Interactions Laboratory under Prof. Keith Moored and PhD mentor Ata Ardıç.
 
 My research focuses on uncovering the fluid–structure interactions underlying bio-inspired propulsion using cyber-physical fluid dynamics. I design and build experimental robotic propulsion systems integrating precision mechanical hardware, embedded sensing, and real-time control to investigate propulsion physics and enable next-generation autonomous underwater vehicles.
