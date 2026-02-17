@@ -116,7 +116,7 @@ Designed and built robotic propulsion experimental platform integrating:
 
 ## Formula SAE Suspension Design
 
-<img src="/images/formula.png" width="700" style="border-radius:12px;">
+<img src="/images/formula.png" width="240" style="border-radius:12px;">
 
 Designed lightweight suspension components to improve vehicle performance using CAD design and structural analysis.
 
