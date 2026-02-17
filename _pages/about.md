@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/formula.png" width="20%" style="border-radius:12px;"> <img src="/images/formula.png" width="20%" style="border-radius:12px;"> <img src="/images/formula.png" width="20%" style="border-radius:12px;">
+<img src="/images/formula.png" width="200" style="border-radius:12px;"> <img src="/images/formula.png" width="200" style="border-radius:12px;"> <img src="/images/formula.png" width="200" style="border-radius:12px;">
 
 
 Hi, my name is **Abylaikhan Mukhamejanov**. I am a Mechanical Engineering student and Undergraduate Researcher at Lehigh University, working in the Unsteady Flow Interactions Laboratory under Prof. Keith Moored and PhD mentor Ata Ardıç.
