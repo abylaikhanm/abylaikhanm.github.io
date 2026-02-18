@@ -18,6 +18,8 @@ Outside of engineering, I love traveling and working outdoors 🌿. Since I was 
 
 ## News
 
+> **November 2025:** 🏆 Won the Best Poster Award at the ASME IMECE Undergraduate Research Expo and presented my Wave-Assisted Propulsion research at the APS Division of Fluid Dynamics (DFD).
+
 > **October 2025:** Presented WAP project progress at the Annual DoD MURI Meeting at Lehigh University, showcasing experimental validation and control integration of the cyber-physical testbed.  
 
 > **September 2025:** 📄 Abstract accepted for presentation at both the APS Division of Fluid Dynamics (DFD) and ASME International Mechanical Engineering Congress & Exposition (IMECE) conferences.  
