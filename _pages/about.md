@@ -8,23 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Abylaikhan Mukhamejanov. I’m a Mechanical Engineering student at Lehigh University with experience in mechanical design, manufacturing, and robotics ⚙️🤖
+Hi, my name is Abylaikhan Mukhamejanov. I’m a Mechanical Engineering student at Lehigh University with experience in mechanical design, manufacturing, and robotics. I am also from the beautiful country of Kazakhstan 🇰🇿.
 
-For the past two years, I’ve been conducting research on bio-inspired underwater propulsion systems 🌊 under Dr. Moored, where I design and build experimental robotic setups and develop control systems for fluid–structure interaction studies.
-
-I serve as the Structures Lead for Lehigh’s first NASA CubeSat Launch Initiative project 🚀, leading the mechanical design of our nanosatellite and contributing to over $200K in raised funding. I’m also part of the Formula SAE team 🏎️, working on suspension and composite structures.
+For the past two years, I’ve been conducting research on bio-inspired underwater propulsion systems 🌊 under Dr. Moored, where I design and build experimental robotic setups and develop control systems for fluid–structure interaction studies. I serve as the Structures Lead for Lehigh’s first NASA CubeSat Launch Initiative project 🚀, leading the mechanical design of our nanosatellite and contributing to over $200K in raised funding. I’m also part of the Formula SAE team 🏎️, working on suspension and composite structures.
 
 These experiences strengthened my skills in:
 
-SolidWorks & ANSYS Workbench (FEA) 🖥️
+SolidWorks & ANSYS Workbench (FEA)
 
-Manufacturing: 3D printing, CNC machining, waterjet cutting, injection molding 🛠️
+Manufacturing: 3D printing, CNC machining, waterjet cutting, injection molding
 
-Mechanical systems integration (actuators, sensors, electronics) 🔩🔌
+Mechanical systems integration (actuators, sensors, electronics)
 
-MATLAB & control systems 📊
+MATLAB & control systems
 
-Outside of engineering, I love traveling and working outdoors 🌿. I recently built a gazebo at my family’s country house in Kazakhstan 🇰🇿 — a project that reminded me why I love hands-on engineering. I also enjoy skiing ⛷️ and horse riding 🐎.
+Outside of engineering, I love traveling and working outdoors. I recently built a gazebo at my family’s country house — a project that reminded me why I love hands-on engineering. I also enjoy skiing ⛷️ and horse riding 🐎.
 
 ---
 
