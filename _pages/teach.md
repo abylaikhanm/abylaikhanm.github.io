@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /teach/
 title: "Research Experience"
 excerpt: "Research Experience"
 author_profile: true
