@@ -8,8 +8,6 @@ author_profile: true
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
 *Nov 2023 – Present*
 
-### Cyber-Physical Fluid Dynamics Platform
-
 I work in the **Unsteady Flow Interactions Laboratory (UFIL)** under Prof. Keith Moored on the development of a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying **wave-assisted propulsion** and fluid-structure interactions.
 
 The CPFD system integrates a **robotic experimental testbed with real-time simulation**, enabling rapid testing of different physical scenarios. Using a **force sensor and encoder feedback**, the system allows us to model an oscillating hydrofoil as a **virtual mass–spring–damper system**, where stiffness and damping parameters can be programmatically adjusted.
@@ -40,6 +38,9 @@ This setup enables investigation of:
 - Fluid–structure interaction effects in bio-inspired propulsion systems  
 
 <img src="/images/pitchheavesetup.png" width="400">
+
+<img src="/images/poster.png" width="800">
+
 ---
 
 ## Research Intern - Aerotargets International
