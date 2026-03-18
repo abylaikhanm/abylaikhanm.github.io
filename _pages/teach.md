@@ -6,8 +6,6 @@ permalink: /teach/
 ---
 
 ## Head Teaching Assistant – Applied Engineering Computer Methods
-**Venue:** Lehigh University  
-**Date:** 2023-12-01 | **Location:** Bethlehem, PA, USA
 
 I serve as the Head Teaching Assistant for a large, project-based engineering course, instructing over 300 students per semester in Python programming and hardware integration.
 
@@ -21,8 +19,6 @@ I serve as the Head Teaching Assistant for a large, project-based engineering co
 ---
 
 ## Makerspace Coordinator – Design Labs
-**Venue:** Lehigh University  
-**Date:** 2024-01-01 | **Location:** Bethlehem, PA, USA
 
 I manage over 30 3D printers, 2 CNC routers, waterjet and laser cutters, and a PCB milling machine. For 10 hours a week, I assist in rapid prototyping for over 30 students and 10 clubs weekly, supporting more than 60 cross-disciplinary projects each semester.
 
