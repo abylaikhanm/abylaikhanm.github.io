@@ -22,7 +22,7 @@ This approach enables us to:
 
 The platform acts as a **hardware-in-the-loop system**, allowing direct validation of fluid–structure interaction models and accelerating experimental iteration.
 
-![pic](/images/poster.png)
+![pic](/images/IMG_6849.MOV)
 ### Pitch and Heave Setup
 
 I designed and built a **2-DOF pitch-and-heave experimental setup** for controlled testing of flapping hydrofoil propulsion in a water-channel environment.
@@ -39,7 +39,7 @@ This setup enables investigation of:
 - Coupled heave–pitch dynamics  
 - Fluid–structure interaction effects in bio-inspired propulsion systems  
 
-![pic](/images/poster.png)
+![pic](/images/pitchheavesetup.png)
 ---
 
 ## Research Intern - Aerotargets International
