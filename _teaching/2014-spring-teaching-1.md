@@ -18,5 +18,5 @@ I serve as the Head Teaching Assistant for a large, project-based engineering co
 
 • Continuously improve course materials and lab delivery by incorporating feedback from students and the teaching team.
 
-<img src="engr010.png" width="400">
+<img src="robot.gif" width="400">
 
