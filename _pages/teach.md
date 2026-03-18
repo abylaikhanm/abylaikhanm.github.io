@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 excerpt: "Teaching Experience"
 author_profile: true
-permalink: /teach
+permalink: /teach/
 ---
 
 ## Head Teaching Assistant – Applied Engineering Computer Methods
