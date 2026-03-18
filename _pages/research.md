@@ -69,4 +69,6 @@ My role involved developing **3D CAD-based models** from AFM datasets and buildi
 
 This work enhanced visualization of nanoscale structures and supported improved understanding of surface-dependent performance in renewable energy devices.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0la34fWJrFM?start=3" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 ---
