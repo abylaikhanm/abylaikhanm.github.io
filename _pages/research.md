@@ -55,7 +55,7 @@ I designed and refined the **mechanical test setup**, supported instrumentation 
 
 The collected aerodynamic data informed design improvements, contributing to a **10% reduction in drag** and overall performance optimization of the UAV.
 
-![pic](/images/poster.png)
+<img src="/images/drone.png" width="400">
 
 ---
 
