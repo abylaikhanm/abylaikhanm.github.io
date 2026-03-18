@@ -22,4 +22,4 @@ I serve as the Head Teaching Assistant for a large, project-based engineering co
 
 I manage over 30 3D printers, 2 CNC routers, waterjet and laser cutters, and a PCB milling machine. For 10 hours a week, I assist in rapid prototyping for over 30 students and 10 clubs weekly, supporting more than 60 cross-disciplinary projects each semester.
 
-<img src="/images/wilbur.png" width="400">
+<img src="/images/wilbur.png">
