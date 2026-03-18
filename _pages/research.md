@@ -47,7 +47,7 @@ This setup enables investigation of:
 
 ### [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/)
 
-I worked on the **Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTargets International**, under Prof. Keith Moored, focusing on improving aerodynamic performance.
+I worked on the Wind Tunnel Test Program for the LOCOST UAV with AeroTargets International, focusing on improving aerodynamic performance.
 
 I designed and refined the **mechanical test setup**, supported instrumentation using a **six-axis force/torque sensor**, and assisted in wind tunnel operation and testing.
 
