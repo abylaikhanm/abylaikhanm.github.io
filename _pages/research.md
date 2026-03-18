@@ -40,7 +40,7 @@ This setup enables investigation of:
 - Coupled heave–pitch dynamics  
 - Fluid–structure interaction effects in bio-inspired propulsion systems  
 
-![pic](/images/pitchheavesetup.png)
+<img src="/images/pitchheavesetup.png" width="400">
 ---
 
 ## Research Intern - Aerotargets International
