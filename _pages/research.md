@@ -9,21 +9,52 @@ author_profile: true
 **Lehigh University, Bethlehem, PA**  
 *Nov 2023 – Present*
 
-### [Pitch and Heave Setup for Bio-Propulsion Studies](https://drive.google.com/file/d/1jffg0PIKivp45YWeB3Ubjm66hILFO0br/view)
-I am currently working on a research project as part of the Multi-disciplinary University Research Initiatives award (**MURI - $7.5M U.S. Department of Defense-funded project**), collaborating with Princeton University, Harvard University, and the University of Virginia. The project focuses on **investigating the hydrodynamics of bio-robotic schooling systems** for high-speed and high-efficiency swimming. My responsibilities are designing the experimental setup, developing data acquisition architecture, and integrating a particle image velocimetry system, high-torque motors, and a 6-axis force sensor.
+### Cyber-Physical Fluid Dynamics Platform
 
-### [Bio-Inspired Riverine Power Generation](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation)
-I contribute to a research project under the supervision of Prof. Keith Moored, **funded by the U.S. Department of Defense (DOD) and the U.S. Department of Energy (DOE)**. The project focuses on developing a **hydrokinetic turbine utilizing bio-inspired hydrofoils to convert water flow into electricity**, aiming to provide renewable energy solutions suitable for remote villages and large cities. My responsibilities are designing and implementing a wireless communication system for closed-loop control and real-time data acquisition.
+I work in the **Unsteady Flow Interactions Laboratory (UFIL)** under Prof. Keith Moored on the development of a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying **wave-assisted propulsion** and fluid-structure interactions.
 
+The CPFD system integrates a **robotic experimental testbed with real-time simulation**, enabling rapid testing of different physical scenarios. Using a **force sensor and encoder feedback**, the system allows us to model an oscillating hydrofoil as a **virtual mass–spring–damper system**, where stiffness and damping parameters can be programmatically adjusted.
+
+This approach enables us to:
+- Replicate physical dynamics through **real-time control and feedback**
+- Test a wide range of conditions without rebuilding hardware
+- Simultaneously compare **simulated and experimental responses**
+
+The platform acts as a **hardware-in-the-loop system**, allowing direct validation of fluid–structure interaction models and accelerating experimental iteration.
+
+![pic](/images/poster.png)
+### Pitch and Heave Setup
+
+I designed and built a **2-DOF pitch-and-heave experimental setup** for controlled testing of flapping hydrofoil propulsion in a water-channel environment.
+
+The system features:
+- **Accurate closed-loop PID control** for prescribed motion profiles  
+- Integration with the **cyber-physical framework** for dynamic parameter tuning  
+- High-precision sensing for capturing hydrodynamic forces and motion response  
+
+I modeled and fabricated the system using **SolidWorks, CNC machining, waterjet cutting, and 3D printing**, and integrated actuators, linear guides, and sensors into a fully functional test platform.
+
+This setup enables investigation of:
+- Propulsion efficiency and thrust generation  
+- Coupled heave–pitch dynamics  
+- Fluid–structure interaction effects in bio-inspired propulsion systems  
+
+![pic](/images/poster.png)
 ---
 
-## Research Intern - Aerospace Systems Control Laboratory
-**Lehigh University, Bethlehem, PA**  
+## Research Intern - Aerotargets International
+**(Update location if needed)**  
 *May 2024 – Aug 2024*
 
 ### [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/)
 
-I worked on the **Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTargets International**, under Prof. Keith Moored. The project aimed to **improve lift and drag characteristics** for a 33% scale UAV model. I designed the experimental setup, conducted data acquisition using a six-axis force/torque sensor, and operated the wind tunnel. The aerodynamic data collected helped optimize the UAV's design, **reducing its drag by 10%.**
+I worked on the **Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTargets International**, under Prof. Keith Moored, focusing on improving aerodynamic performance.
+
+I designed and refined the **mechanical test setup**, supported instrumentation using a **six-axis force/torque sensor**, and assisted in wind tunnel operation and testing.
+
+The collected aerodynamic data informed design improvements, contributing to a **10% reduction in drag** and overall performance optimization of the UAV.
+
+![pic](/images/poster.png)
 
 ---
 
@@ -33,8 +64,10 @@ I worked on the **Wind Tunnel Test Program (WTTP) for the LOCOST UAV with AeroTa
 
 ### [Nanoscale Topography of Perovskite Solar Cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface)
 
-I worked on a VR/AR/XR project focused on visualizing the nanoscale topography of perovskite solar cells, using data from Atomic Force Microscopy (AFM). This project is part of emerging renewable energy research, where understanding surface characteristics is critical for improving device performance. My CAD skills were key to interpreting AFM data, aiding in the design of more efficient preparation procedures. I worked on **AR model for users to explore the cell’s surface topography in 3D**, enhancing comprehension of its structure and performance.
+I worked on a **VR/AR/XR visualization project** focused on representing nanoscale surface features of **perovskite solar cells** using **Atomic Force Microscopy (AFM)** data.
 
+My role involved developing **3D CAD-based models** from AFM datasets and building an **interactive augmented reality system** that allows users to explore surface topography in an intuitive, immersive way.
 
-## Research Poster for the Mountain Top Research Conference @ Lehigh University
-![pic](/images/poster.png)
+This work enhanced visualization of nanoscale structures and supported improved understanding of surface-dependent performance in renewable energy devices.
+
+---
