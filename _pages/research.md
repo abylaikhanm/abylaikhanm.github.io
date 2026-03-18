@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
-**Lehigh University, Bethlehem, PA**  
 *Nov 2023 – Present*
 
 ### Cyber-Physical Fluid Dynamics Platform
@@ -44,7 +43,6 @@ This setup enables investigation of:
 ---
 
 ## Research Intern - Aerotargets International
-**(Update location if needed)**  
 *May 2024 – Aug 2024*
 
 ### [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/)
@@ -60,7 +58,6 @@ The collected aerodynamic data informed design improvements, contributing to a *
 ---
 
 ## Undergraduate Researcher - Nano Human Interfaces Presidential Initiative
-**Lehigh University, Bethlehem, PA**  
 *Sep 2023 – May 2024*
 
 ### [Nanoscale Topography of Perovskite Solar Cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface)
