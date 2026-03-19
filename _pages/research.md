@@ -8,7 +8,7 @@ author_profile: true
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
 *Nov 2023 – Present*
 
-I work in the **Unsteady Flow Interactions Laboratory (UFIL)** under Prof. Keith Moored on the development of a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying **wave-assisted propulsion** and fluid-structure interactions.
+I work in the **Unsteady Flow Interactions Laboratory ** under Prof. Keith Moored on the development of a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying **wave-assisted propulsion** and fluid-structure interactions.
 
 The CPFD system integrates a **robotic experimental testbed with real-time simulation**, enabling rapid testing of different physical scenarios. Using a **force sensor and encoder feedback**, the system allows us to model an oscillating hydrofoil as a **virtual mass–spring–damper system**, where stiffness and damping parameters can be programmatically adjusted.
 
@@ -50,7 +50,7 @@ This setup enables investigation of:
 
 I worked on the Wind Tunnel Test Program for the LOCOST UAV with AeroTargets International, focusing on improving aerodynamic performance.
 
-I designed and refined the **mechanical test setup**, supported instrumentation using a **six-axis force/torque sensor**, and assisted in wind tunnel operation and testing.
+I designed and refined the test setup, supported instrumentation using a **six-axis force/torque sensor**, and assisted in wind tunnel operation and testing.
 
 The collected aerodynamic data informed design improvements, contributing to a **10% reduction in drag** and overall performance optimization of the UAV.
 
