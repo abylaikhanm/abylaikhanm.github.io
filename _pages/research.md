@@ -19,18 +19,6 @@ This approach enables us to:
 
 The platform acts as a **hardware-in-the-loop system**, allowing direct validation of fluid–structure interaction models and accelerating experimental iteration.
 
-Conference Presentations:
-
-- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
-  *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics*.  
-  [APS Division of Fluid Dynamics (DFD), Houston, TX](https://meetings-archive.aps.org/dfd/2025/s00/12/)
-
-- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
-  *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies*.  
-  [ASME International Mechanical Engineering Congress & Exposition (IMECE), Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)  
-  **Best Undergraduate Research Poster Award (1/80+ posters)**
-
-
 <img src="/images/ezgif-69db120212571850.gif" width="400">
 
 ### Pitch and Heave Setup
@@ -52,6 +40,17 @@ This setup enables investigation of:
 <img src="/images/pitchheavesetup.png" width="400">
 
 <img src="/images/poster.png" width="800">
+
+Conference Presentations:
+
+- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
+  *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics*.  
+  [APS Division of Fluid Dynamics (DFD), Houston, TX](https://meetings-archive.aps.org/dfd/2025/s00/12/)
+
+- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
+  *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies*.  
+  [ASME International Mechanical Engineering Congress & Exposition (IMECE), Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)  
+  **Best Undergraduate Research Poster Award (1/80+ posters)**
 
 ---
 
