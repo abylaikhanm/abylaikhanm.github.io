@@ -39,8 +39,6 @@ This setup enables investigation of:
 
 <img src="/images/pitchheavesetup.png" width="400">
 
-<img src="/images/poster.png" width="800">
-
 Conference Presentations:
 
 - **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
@@ -51,6 +49,10 @@ Conference Presentations:
   *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies*.  
   [ASME International Mechanical Engineering Congress & Exposition (IMECE), Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)  
   **Best Undergraduate Research Poster Award (1/80+ posters)**
+
+
+<img src="/images/poster.png" width="800">
+
 
 ---
 
