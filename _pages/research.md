@@ -56,6 +56,24 @@ Conference Presentations:
 
 ---
 
+## Research Intern - Lauder Laboratory, Harvard University
+*May 2026 – Aug 2026*
+
+### [Fish Swimming and Vortex Wake Dynamics](https://sites.harvard.edu/glauder/)
+
+I spent the summer conducting research at the **Lauder Laboratory, Harvard University**, under Dr. George Lauder, studying how fish swimming and station-holding behavior are shaped by unsteady, thrust-producing vortex wakes.
+
+Working with an **actuated hydrofoil and a passive 3D-printed fish**, I investigated swimming and station-holding performance in vortex wakes across a range of oscillation frequencies, pitch amplitudes, and flow speeds.
+
+My work involved:
+- Performing **particle image velocimetry (PIV)** and processing flow measurements in **MATLAB and PIVlab** to characterize wake structures and hydrodynamic interactions
+- Developing **2D tracking, 3D reconstruction, and kinematic-analysis pipelines** using **DeepLabCut** to study fish schooling and swimming behind an angled foil
+- Quantifying changes in fish swimming kinematics across flow speeds and examining the effects of turbulence through 2D and 3D motion analysis
+
+This work contributed to a co-authored abstract, **"Passive Swimming Dynamics in a Thrust-Producing Vortex Wake,"** accepted for the **APS Division of Fluid Dynamics Meeting 2026** (Nov 2026, Orlando, FL).
+
+---
+
 ## Research Intern - Aerotargets International
 *May 2024 – Aug 2024*
 

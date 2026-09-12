@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Abylaikhan Mukhamejanov. I’m a third-year Mechanical Engineering student at Lehigh University with experience in mechanical design, manufacturing, and robotics. Thank you for visiting my page.
 
-For the past two years, I’ve been conducting research on bio-inspired underwater propulsion systems 🌊 under Dr. Moored, where I design and build experimental robotic setups and develop control systems for fluid–structure interaction studies. I serve as the Structures Lead for Lehigh’s first NASA CubeSat Launch Initiative project 🚀, leading the mechanical design of our nanosatellite and contributing to over $200K in raised funding. I’m also part of the Formula SAE team 🏎️, working on suspension and composite structures.
+For the past two years, I’ve been conducting research on bio-inspired underwater propulsion systems 🌊 under Dr. Moored, where I design and build experimental robotic setups and develop control systems for fluid–structure interaction studies. In summer 2026, I conducted research at the **Lauder Laboratory, Harvard University** 🐟, studying fish swimming and vortex wake dynamics with Dr. George Lauder using particle image velocimetry and motion-tracking methods. I serve as the Structures Lead for Lehigh’s first NASA CubeSat Launch Initiative project 🚀, leading the mechanical design of our nanosatellite and contributing to over $200K in raised funding. I’m also part of the Formula SAE team 🏎️, working on suspension and composite structures.
 
 These experiences strengthened my skills in:
 
@@ -27,6 +27,12 @@ Outside of engineering, I love traveling and working outdoors. I recently built 
 ---
 
 ## News
+
+> **September 2026:** Reviewed APS Division of Fluid Dynamics (DFD) 2026 slides with Dr. George Lauder, co-author on the abstract *"Passive Swimming Dynamics in a Thrust-Producing Vortex Wake."*
+
+> **August 2026:** Completed a summer research internship at the **[Lauder Laboratory, Harvard University](https://sites.harvard.edu/glauder/)**, studying fish swimming and station-holding dynamics in thrust-producing vortex wakes 🐟.
+
+> **May 2026:** Started a summer research internship at the Lauder Laboratory, Harvard University, working with Dr. George Lauder on bio-inspired swimming and hydrodynamics 🎓.
 
 > **November 2025:** 🏆 Won the **[Best Undergraduate Research Poster Award](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)** at **[ASME IMECE](https://event.asme.org/IMECE)** for presenting *“Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics.”*
 
