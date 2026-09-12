@@ -8,97 +8,44 @@ author_profile: true
 ## Undergraduate Researcher - Unsteady Flow Interactions Laboratory
 *Nov 2023 – Present*
 
-I work in the Unsteady Flow Interactions Laboratory under Prof. Keith Moored on the development of a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying **wave-assisted propulsion** and fluid-structure interactions.
-
-The CPFD system integrates a **robotic experimental testbed with real-time simulation**, enabling rapid testing of different physical scenarios. Using a **force sensor and encoder feedback**, the system allows us to model an oscillating hydrofoil as a **virtual mass–spring–damper system**, where stiffness and damping parameters can be programmatically adjusted.
-
-This approach enables us to:
-- Replicate physical dynamics through **real-time control and feedback**
-- Test a wide range of conditions without rebuilding hardware
-- Simultaneously compare **simulated and experimental responses**
-
-The platform acts as a **hardware-in-the-loop system**, allowing direct validation of fluid–structure interaction models and accelerating experimental iteration.
+I work with Prof. Keith Moored on a **Cyber-Physical Fluid Dynamics (CPFD) platform** for studying wave-assisted propulsion and fluid–structure interactions. The system pairs a robotic water-channel testbed with real-time simulation — using force-sensor and encoder feedback to model an oscillating hydrofoil as a programmable mass–spring–damper — enabling rapid testing and direct validation between simulated and experimental responses.
 
 <img src="/images/ezgif-69db120212571850.gif" width="400">
 
-### Pitch and Heave Setup
-
-I designed and built a **2-DOF pitch-and-heave experimental setup** for controlled testing of flapping hydrofoil propulsion in a water-channel environment.
-
-The system features:
-- **Accurate closed-loop PID control** for prescribed motion profiles  
-- Integration with the **cyber-physical framework** for dynamic parameter tuning  
-- High-precision sensing for capturing hydrodynamic forces and motion response  
-
-I modeled and fabricated the system using **SolidWorks, CNC machining, waterjet cutting, and 3D printing**, and integrated actuators, linear guides, and sensors into a fully functional test platform.
-
-This setup enables investigation of:
-- Propulsion efficiency and thrust generation  
-- Coupled heave–pitch dynamics  
-- Fluid–structure interaction effects in bio-inspired propulsion systems  
+I also designed and built a **2-DOF pitch-and-heave setup** for flapping-hydrofoil propulsion testing, with closed-loop PID control integrated into the CPFD framework. I modeled and fabricated the system in SolidWorks using CNC machining, waterjet cutting, and 3D printing.
 
 <img src="/images/pitchheavesetup.png" width="400">
 
-Conference Presentations:
-
-- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
-  *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics*.  
-  [APS Division of Fluid Dynamics (DFD), Houston, TX](https://meetings-archive.aps.org/dfd/2025/s00/12/)
-
-- **Mukhamejanov, A.**, Ardic, A., & Moored, K. (2025).  
-  *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies*.  
-  [ASME International Mechanical Engineering Congress & Exposition (IMECE), Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)  
-  **Best Undergraduate Research Poster Award (1/80+ posters)**
-
+**Presentations:**
+- [APS Division of Fluid Dynamics (DFD), Houston, TX](https://meetings-archive.aps.org/dfd/2025/s00/12/) — *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics* (2025)
+- [ASME IMECE, Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171) — *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies* (2025), **Best Undergraduate Research Poster Award**
 
 <img src="/images/poster.png" width="800">
-
 
 ---
 
 ## Research Intern - Lauder Laboratory, Harvard University
 *May 2026 – Aug 2026*
 
-### [Fish Swimming and Vortex Wake Dynamics](https://sites.harvard.edu/glauder/)
+Advisor: Dr. George Lauder. I studied how fish swimming and station-holding are shaped by thrust-producing vortex wakes, using an actuated hydrofoil and a passive 3D-printed fish across a range of frequencies, pitch amplitudes, and flow speeds.
 
-I spent the summer conducting research at the **Lauder Laboratory, Harvard University**, under Dr. George Lauder, studying how fish swimming and station-holding behavior are shaped by unsteady, thrust-producing vortex wakes.
-
-Working with an **actuated hydrofoil and a passive 3D-printed fish**, I investigated swimming and station-holding performance in vortex wakes across a range of oscillation frequencies, pitch amplitudes, and flow speeds.
-
-My work involved:
-- Performing **particle image velocimetry (PIV)** and processing flow measurements in **MATLAB and PIVlab** to characterize wake structures and hydrodynamic interactions
-- Developing **2D tracking, 3D reconstruction, and kinematic-analysis pipelines** using **DeepLabCut** to study fish schooling and swimming behind an angled foil
-- Quantifying changes in fish swimming kinematics across flow speeds and examining the effects of turbulence through 2D and 3D motion analysis
-
-This work contributed to a co-authored abstract, **"Passive Swimming Dynamics in a Thrust-Producing Vortex Wake,"** accepted for the **APS Division of Fluid Dynamics Meeting 2026** (Nov 2026, Orlando, FL).
+I performed **particle image velocimetry (PIV)** in MATLAB/PIVlab to characterize wake structures, and built 2D/3D tracking and kinematic-analysis pipelines in **DeepLabCut** to study fish schooling and swimming kinematics. This work contributed to a co-authored abstract accepted at the **APS Division of Fluid Dynamics Meeting 2026**.
 
 ---
 
 ## Research Intern - Aerotargets International
 *May 2024 – Aug 2024*
 
-### [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/)
-
-I worked on the Wind Tunnel Test Program for the LOCOST UAV with AeroTargets International, focusing on improving aerodynamic performance.
-
-I designed and refined the test setup, supported instrumentation using a **six-axis force/torque sensor**, and assisted in wind tunnel operation and testing.
-
-The collected aerodynamic data informed design improvements, contributing to a **10% reduction in drag** and overall performance optimization of the UAV.
+I worked on the [LOCOST UAV Wind Tunnel Test Program](http://www.aerotargets.com/), refining the test setup and supporting instrumentation with a six-axis force/torque sensor. The resulting aerodynamic data informed design changes that cut drag by 10%.
 
 <img src="/images/drone.png" width="400">
 
 ---
 
-## Undergraduate Researcher - Nano Human Interfaces Presidential Initiative
+## Undergraduate Researcher - Nano/Human Interfaces Presidential Initiative
 *Sep 2023 – May 2024*
 
-### [Nanoscale Topography of Perovskite Solar Cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface)
-
-I worked on a **VR/AR/XR visualization project** focused on representing nanoscale surface features of **perovskite solar cells** using **Atomic Force Microscopy (AFM)** data.
-
-My role involved developing **3D CAD-based models** from AFM datasets and building an **interactive augmented reality system** that allows users to explore surface topography in an intuitive, immersive way.
-
-This work enhanced visualization of nanoscale structures and supported improved understanding of surface-dependent performance in renewable energy devices.
+I worked on a [VR/AR visualization project](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface) representing nanoscale surface features of perovskite solar cells from Atomic Force Microscopy data — building 3D CAD models and an interactive AR system for exploring surface topography.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0la34fWJrFM?start=3" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
