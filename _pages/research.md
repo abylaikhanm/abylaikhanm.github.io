@@ -58,11 +58,9 @@ I studied **in-line swimming**: how a fish swimming behind a leading swimmer gai
 
 Presented at the **ONR MURI Annual Review Meeting** (Sep 2026) and the **APS Division of Fluid Dynamics Meeting** (Nov 2026, Orlando, FL).
 
-<!-- ============================================================
-     PHOTO BLOCK — the air-bearing robotic flapper / flow tank setup.
-     Replace this whole comment with:
-     <img src="/images/YOUR_FILE.png" width="450">
-     ============================================================ -->
+<img src="/images/lauder-piv-setup.jpg" width="700">
+
+*Running PIV experiments in the Lauder Lab — the green sheet is the laser illuminating the seeded flow, with the particle images and motion control on the monitors.*
 
 <!-- ============================================================
      PHOTO BLOCK — PIV wake vortex visualization.

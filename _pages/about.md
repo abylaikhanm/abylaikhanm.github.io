@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior mechanical engineering student at Lehigh University, with hands-on experience designing, manufacturing, and testing robotic and electromechanical systems — in research labs at Lehigh and Harvard, in industry, and on our Formula SAE team.
+Hey — I'm a mechanical engineer with hands-on experience designing, manufacturing, and testing robotic and electromechanical systems.
 
-Most of what I do comes down to building machines that move through water, and then figuring out why they move the way they do. At Lehigh I build a robotic swimmer in a water channel that turns ocean-wave energy into thrust. Last summer at Harvard I looked at how a fish swimming behind another one gets pulled along by its wake without really swimming at all. Closer to the ground, I design carbon-fiber suspension for our Formula SAE car.
+My research is on how fish swim, and what that can teach us about three things: building more efficient ship propulsion, generating energy from ocean waves, and understanding how fish swim efficiently in groups. Over the last three years I've done this work at Lehigh and at Harvard.
 
-Tools: SolidWorks and ANSYS · CNC machining, waterjet, 3D printing, composite bonding · MATLAB, Simulink, and LabVIEW · NI DAQ, Arduino, PID control
+Outside the lab, I design carbon-fiber suspension for our Formula SAE race car, and I led the mechanical design of OSPREY, Lehigh's first nanosatellite. I also spent a summer at Aerotargets International running wind-tunnel tests on a UAV.
 
-Outside of engineering I travel and build things outdoors — I put up a gazebo at my family's country house, which is still the most satisfying thing I've built. I also ski ⛷ and ride horses 🐎.
+I'm from Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I get the chance — ideally in the Tian Shan mountains back home.
 
 ---
 
