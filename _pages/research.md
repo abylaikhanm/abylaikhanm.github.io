@@ -5,8 +5,8 @@ excerpt: "Research Experience"
 author_profile: true
 ---
 
-## Unsteady Flow Interactions Laboratory, Lehigh University
-*Undergraduate Researcher — Mechanical Design & Test · Nov 2023 – Present · Advisor: Dr. Keith Moored*
+## [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213), Lehigh University
+*Undergraduate Researcher — Mechanical Design & Test · Nov 2023 – Present · Advisor: [Dr. Keith Moored](https://engineering.lehigh.edu/faculty/keith-w-moored)*
 
 I design and build robotic swimmers that study how ocean-wave energy can be turned into thrust. The work runs under an Office of Naval Research program, with applications to ship propulsion and ocean energy generation.
 
@@ -42,8 +42,8 @@ The 2-DOF rig I designed and built for controlled flapping-hydrofoil testing in 
 
 ---
 
-## Lauder Laboratory, Harvard University
-*Research Intern — Office of Naval Research MURI Program · May 2026 – Aug 2026 · Advisor: Dr. George Lauder*
+## [Lauder Laboratory](https://sites.harvard.edu/glauder/), Harvard University
+*Research Intern — Office of Naval Research MURI Program · May 2026 – Aug 2026 · Advisor: [Dr. George Lauder](https://www.oeb.harvard.edu/people/george-v-lauder)*
 
 I studied **in-line swimming**: how a fish swimming behind a leading swimmer gains thrust from the leader's wake without actively swimming. The same effect could let ships and underwater drones travel more efficiently in groups.
 
@@ -56,7 +56,7 @@ I studied **in-line swimming**: how a fish swimming behind a leading swimmer gai
 - Built 2-D tracking and 3-D reconstruction pipelines in **MATLAB and R** to quantify swimming kinematics.
 - Documented test methods and findings in a technical report.
 
-Presented at the **ONR MURI Annual Review Meeting** (Sep 2026) and the **APS Division of Fluid Dynamics Meeting** (Nov 2026, Orlando, FL).
+Presented at the ONR MURI Annual Review Meeting (Sep 2026) and the [APS Division of Fluid Dynamics Meeting](https://www.aps.org/events/2026/dfd-annual-meeting-2026) (Nov 2026, Orlando, FL).
 
 <img src="/images/lauder-piv-setup.jpg" width="700">
 

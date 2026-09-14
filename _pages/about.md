@@ -12,7 +12,7 @@ Hey — I'm a mechanical engineer with hands-on experience designing, manufactur
 
 My research is on how fish swim, and what that can teach us about three things: building more efficient ship propulsion, generating energy from ocean waves, and understanding how fish swim efficiently in groups. Over the last three years I've done this work at Lehigh and at Harvard.
 
-Outside the lab, I design carbon-fiber suspension for our Formula SAE race car, and I led the mechanical design of OSPREY, Lehigh's first nanosatellite. I also spent a summer at Aerotargets International running wind-tunnel tests on a UAV.
+Outside the lab, I design carbon-fiber suspension for our [Formula SAE](https://sites.google.com/lehigh.edu/lehighracing) race car, and I led the mechanical design of [OSPREY](https://drive.google.com/file/d/1HFVFsZO4rLd7KPLPyvk-KGtrsIB6pKq9/view), Lehigh's first nanosatellite. I also spent a summer at [Aerotargets International](http://www.aerotargets.com/) running wind-tunnel tests on a UAV.
 
 I'm from Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I get the chance — ideally in the Tian Shan mountains back home.
 
@@ -34,7 +34,7 @@ I'm from Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I get the chanc
 
 > **May 2025:** Awarded the Rossin Research Fellowship to work in the Unsteady Flow Interactions Lab on cyber-physical systems for wave-assisted propulsion (WAP).
 
-> **December 2024:** 🚀 Our team raised $200K in funding to build and launch OSPREY, Lehigh's first Nanosatellite 🛰️.
+> **December 2024:** 🚀 Our team raised $200K in funding to build and launch [OSPREY](https://drive.google.com/file/d/1HFVFsZO4rLd7KPLPyvk-KGtrsIB6pKq9/view), Lehigh's first Nanosatellite 🛰️.
 
 > **September 2024:** Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊.
 
