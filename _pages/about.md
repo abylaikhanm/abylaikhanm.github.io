@@ -16,6 +16,40 @@ Outside the lab, I design carbon-fiber suspension for our [Formula SAE](https://
 
 I'm from Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I get the chance — ideally in the Tian Shan mountains back home.
 
+<style>
+.life-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:1.6em 0 0.4em;}
+.life-grid figure{margin:0;position:relative;overflow:hidden;border-radius:10px;aspect-ratio:3/4;background:#eaeaea;}
+.life-grid img,.life-grid video{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease;}
+.life-grid figure:hover img,.life-grid figure:hover video{transform:scale(1.05);}
+.life-grid figcaption{position:absolute;left:0;right:0;bottom:0;padding:20px 10px 8px;color:#fff;
+  font-size:.72em;line-height:1.3;letter-spacing:.02em;
+  background:linear-gradient(transparent,rgba(0,0,0,.7));opacity:0;transition:opacity .3s ease;}
+.life-grid figure:hover figcaption{opacity:1;}
+@media (max-width:620px){
+  .life-grid{grid-template-columns:repeat(2,1fr);gap:8px;}
+  .life-grid figcaption{opacity:1;}
+}
+</style>
+
+<div class="life-grid">
+  <figure>
+    <img src="/images/life-horse-lake.jpg" alt="Horse riding by a lake in Kazakhstan" loading="lazy">
+    <figcaption>Riding back home</figcaption>
+  </figure>
+  <figure>
+    <video src="/images/life-riding.mp4" poster="/images/life-riding-poster.jpg" autoplay loop muted playsinline preload="metadata"></video>
+    <figcaption>Out on the steppe</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/life-ski-almaty.jpg" alt="Ski slope in the mountains of Kazakhstan" loading="lazy">
+    <figcaption>Tian Shan</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/life-ski-pa.jpg" alt="Skiing in Pennsylvania" loading="lazy">
+    <figcaption>Skiing in Pennsylvania</figcaption>
+  </figure>
+</div>
+
 ---
 
 ## News
