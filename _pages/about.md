@@ -10,7 +10,7 @@ redirect_from:
 
 Hey — I'm a mechanical engineer with hands-on experience designing, manufacturing, and testing robotic and electromechanical systems.
 
-My research is on how fish swim, and what that can teach us about three things: building more efficient ship propulsion, generating energy from ocean waves, and understanding how fish swim efficiently in groups. Over the last three years I've done this work at Lehigh and at Harvard.
+My research is on how fish swim, and what that can teach us about three things: building more efficient ship propulsion, generating energy from ocean waves, and understanding how fish swim efficiently in groups. Over the last three years I've done this work at the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213) at Lehigh with [Dr. Keith Moored](https://engineering.lehigh.edu/faculty/keith-w-moored), and at the [Lauder Laboratory](https://sites.harvard.edu/glauder/) at Harvard with [Dr. George Lauder](https://www.oeb.harvard.edu/people/george-v-lauder).
 
 Outside the lab, I design carbon-fiber suspension for our [Formula SAE](https://sites.google.com/lehigh.edu/lehighracing) race car, and I led the mechanical design of [OSPREY](https://drive.google.com/file/d/1HFVFsZO4rLd7KPLPyvk-KGtrsIB6pKq9/view), Lehigh's first nanosatellite. I also spent a summer at [Aerotargets International](http://www.aerotargets.com/) running wind-tunnel tests on a UAV.
 
