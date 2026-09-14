@@ -4,11 +4,10 @@ collection: teaching
 type: "Design Labs"
 permalink: /teaching/teaching-2
 venue: "Lehigh University"
-date: 2024-01-01
+date: 2024-08-01
 location: "Bethlehem, PA, USA"
 ---
 
-I manage over 30 3D printers, 2 CNC routers, waterjet and laser cutters, and a PCB milling machine. For 10 hours a week, I assist in rapid prototyping for over 30 students and 10 clubs weekly, supporting more than 60 cross-disciplinary projects each semester.
+Supported fabrication of 30+ student projects using 3D printers, CNC routers, waterjet cutters, and laser cutters. Ran the shop 10 hours a week, helping students and clubs across disciplines prototype their designs. (Aug 2024 – Jan 2025)
 
-<img src="/images/wilbur.png" width="400">
-
+<img src="/images/wilbur.jpg" width="450">

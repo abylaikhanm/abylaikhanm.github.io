@@ -8,36 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Abylaikhan Mukhamejanov — a senior in Mechanical Engineering at Lehigh University working on bio-inspired robotics and fluid dynamics. Thanks for stopping by! 👋
+I'm a senior studying Mechanical Engineering at Lehigh University. I build experimental robots that swim — flapping hydrofoils and robotic fish — to understand how animals and machines move efficiently through unsteady water.
 
-I research wave-assisted propulsion and fluid–structure interactions under Dr. Keith Moored, and spent summer 2026 studying fish swimming and vortex wake dynamics at the **Lauder Laboratory, Harvard University** with Dr. George Lauder 🐟. I'm also the Structures Lead for Lehigh’s NASA CubeSat project 🚀 and design suspension components for the Formula SAE team 🏎️.
+In the **Unsteady Flow Interactions Laboratory** I work with Dr. Keith Moored on turning ocean-wave energy into thrust, under an Office of Naval Research program. I design the hardware and write the controls for our cyber-physical water-channel testbed. This past summer I was at the **Lauder Laboratory at Harvard**, studying how a fish swimming behind another one gains thrust from its wake without actively swimming. I've also led the mechanical design of **OSPREY**, Lehigh's first CubeSat, and I design carbon-fiber suspension for our **Formula SAE** car.
 
-**Skills:** SolidWorks & ANSYS FEA, CNC machining/3D printing/waterjet manufacturing, mechanical systems integration, MATLAB/Simulink controls.
+**Tools I work with:** SolidWorks and ANSYS · CNC machining, waterjet, 3D printing, composite bonding · MATLAB, Simulink, and LabVIEW · NI DAQ, Arduino, PID control
 
-Outside the lab, I love traveling, skiing ⛷, and horseback riding 🐎 — and recently built a gazebo at my family’s country house.
+Outside of engineering I travel and build things outdoors — I put up a gazebo at my family's country house, which is still the most satisfying thing I've built. I also ski ⛷ and ride horses 🐎.
 
 ---
 
 ## News
 
-> **September 2026:** Presented research progress at the ONR MURI Annual Review Meeting, Lehigh University.
+> **September 2026:** 🎤 Presented *"Passive Swimming Dynamics in a Thrust-Producing Vortex Wake"* at the **ONR MURI Annual Review Meeting** at Lehigh University.
 
-> **Summer 2026:** Completed a research internship at the **[Lauder Laboratory, Harvard University](https://sites.harvard.edu/glauder/)**, studying fish swimming and vortex wake dynamics with Dr. George Lauder 🐟.
+> **August 2026:** 🐟 Wrapped up my summer at the **[Lauder Laboratory, Harvard University](https://sites.harvard.edu/glauder/)**, studying how fish gain thrust from the wake of a leading swimmer.
 
-> **November 2025:** 🏆 Won the **[Best Undergraduate Research Poster Award](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)** at **[ASME IMECE](https://event.asme.org/IMECE)**.
+> **May 2026:** Started a summer research internship at the **Lauder Laboratory, Harvard University**, working with Dr. George Lauder on bio-inspired swimming and hydrodynamics 🎓.
 
-> **November 2025:** Presented at the **[APS Division of Fluid Dynamics (DFD)](https://meetings-archive.aps.org/dfd/2025/s00/12/)** meeting.
+> **November 2025:** 🏆 Won the **[Best Undergraduate Research Poster Award](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)** at **[ASME IMECE](https://event.asme.org/IMECE)** for presenting *"Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics."*
 
-> **October 2025:** Presented WAP project progress at the Annual DoD MURI Meeting at Lehigh University.
+> **November 2025:** Presented *"Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies"* at the **[APS Division of Fluid Dynamics (DFD)](https://meetings-archive.aps.org/dfd/2025/s00/12/)**.
 
-> **May 2025:** Awarded the Rossin Research Fellowship to work on cyber-physical systems for wave-assisted propulsion.
+> **October 2025:** Presented WAP project progress at the Annual DoD MURI Meeting at Lehigh University, showcasing experimental validation and control integration of the cyber-physical testbed.
 
-> **December 2024:** 🚀 Helped raise $200K to build and launch OSPREY, Lehigh’s first nanosatellite 🛰️.
+> **September 2025:** 📄 Abstract accepted for presentation at both the APS Division of Fluid Dynamics (DFD) and ASME International Mechanical Engineering Congress & Exposition (IMECE) conferences.
 
-> **May 2024:** Awarded the STEM-SI Research Fellowship for a summer research internship.
+> **May 2025:** Awarded the Rossin Research Fellowship to work in the Unsteady Flow Interactions Lab on cyber-physical systems for wave-assisted propulsion (WAP).
+
+> **December 2024:** 🚀 Our team raised $200K in funding to build and launch OSPREY, Lehigh's first Nanosatellite 🛰️.
+
+> **September 2024:** Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊.
+
+> **August 2024:** Started a new position as MakerSpace Coordinator at Design Labs @ Lehigh University!
+
+> **August 2024:** Presented my work, ["Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies"](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view), at the Mountain Top Research Conference at Lehigh 🎤.
+
+> **July 2024:** Started working with [Aerotargets International](http://www.aerotargets.com/) ✈️.
+
+> **May 2024:** Awarded the prestigious STEM-SI Scholarship to work as an Undergraduate Research Intern over the summer 🏅.
+
+> **April 2024:** Received the Michael Levin Advanced Technology Award for Best Technological Startup at Lehigh 🏆.
+
+> **December 2023:** Started a new position as Senior Teaching Assistant for Applied Engineering Computer Methods.
 
 > **December 2023:** Began research at the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) 🔬.
 
+> **November 2023:** Our team submitted the [first proposal](https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view) to the NASA CubeSat Launch Initiative Program to get funding and a spot on the SpaceX rocket to launch a satellite in space.
+
 > **August 2023:** Started my Bachelor of Science in Mechanical Engineering at Lehigh University 👨‍💻.
+
+> **June 2023:** Won a $5,000 grant and was recognized as a Top-3 SpaceTech Startup at the Central Asia Venture Forum 🚀.
 
 > **May 2023:** Graduated from Nazarbayev Intellectual School of Physics and Mathematics in Kokshetau, Kazakhstan 🎓🇰🇿.

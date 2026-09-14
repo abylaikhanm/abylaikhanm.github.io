@@ -2,21 +2,16 @@
 title: "Head Teaching Assistant"
 collection: teaching
 permalink: /teaching/teaching-1
-type: "Applied Engineering Computer Methods"
+type: "ENGR 010 – Applied Engineering Computer Methods"
 venue: "Lehigh University"
 date: 2023-12-01
 location: "Bethlehem, PA, USA"
 ---
 
-I serve as the Head Teaching Assistant for a large, project-based engineering course, instructing over 300 students per semester in Python programming and hardware integration.
+I lead a 30-student section through weekly Python and robotics labs, and oversee a team of TAs for the course.
 
-• Designed and implemented 8 micro:bit and Arduino lab modules covering embedded systems, sensor integration, and control logic.
+- Authored 8 hands-on robotics lab modules using micro:bit and Arduino, covering embedded systems, sensor integration, and control logic.
+- Keep grading consistent across sections and troubleshoot hardware during labs.
+- Fold student and TA feedback back into the lab materials each semester.
 
-• Coordinate laboratory activities and lead a weekly 40-student lab section focused on hands-on robotics projects.
-
-• Lead a team of 4 TAs to ensure consistent grading, high-quality instruction, and effective hardware troubleshooting.
-
-• Continuously improve course materials and lab delivery by incorporating feedback from students and the teaching team.
-
-<img src="/images/robot.gif" width="400">
-
+<video src="/images/robotics-lab.mp4" width="450" autoplay loop muted playsinline></video>

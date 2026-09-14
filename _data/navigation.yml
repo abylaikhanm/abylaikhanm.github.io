@@ -14,13 +14,16 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "CV"
+    url: /cv/
+
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching Experience"
+  - title: "Teaching"
     url: /teach/    
     
-  - title: "Engineering Portfolio"
+  - title: "Portfolio"
     url: /files/abylaikhan_portfolio.pdf
         
 #  - title: "Blog Posts"

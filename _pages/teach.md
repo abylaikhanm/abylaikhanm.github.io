@@ -5,19 +5,22 @@ author_profile: true
 permalink: /teach/
 ---
 
-## Head Teaching Assistant – Applied Engineering Computer Methods
+## Head Teaching Assistant — ENGR 010, Applied Engineering Computer Methods
+*Lehigh University · Dec 2023 – Present*
 
-I serve as the Head Teaching Assistant for a large, project-based engineering course, instructing over 300 students per semester in Python programming and hardware integration.
+- Lead a 30-student section through weekly Python and robotics labs.
+- Authored **8 hands-on robotics lab modules** using micro:bit and Arduino, covering embedded systems, sensor integration, and control logic.
+- Oversee a team of TAs to keep grading consistent and troubleshoot hardware during labs.
+- Fold student and TA feedback back into the lab materials each semester.
 
-- Designed and implemented 8 micro:bit and Raspberry Pi lab modules covering embedded systems, sensor integration, and control logic.  
-- Coordinate laboratory activities and lead a weekly 40-student lab section focused on hands-on robotics projects.  
-- Lead a team of 4 TAs to ensure consistent grading, high-quality instruction, and effective hardware troubleshooting.  
-- Continuously improve course materials and lab delivery by incorporating feedback from students and the teaching team.  
+<video src="/images/robotics-lab.mp4" width="450" autoplay loop muted playsinline></video>
 
 ---
 
-## Makerspace Coordinator – Design Labs
+## Makerspace Coordinator — Design Labs
+*Lehigh University · Aug 2024 – Jan 2025*
 
-I manage over 30 3D printers, 2 CNC routers, waterjet and laser cutters, and a PCB milling machine. For 10 hours a week, I assist in rapid prototyping for over 30 students and 10 clubs weekly, supporting more than 60 cross-disciplinary projects each semester.
+- Supported fabrication of **30+ student projects** using 3D printers, CNC routers, waterjet cutters, and laser cutters.
+- Ran the shop for 10 hours a week, helping students and clubs prototype across disciplines.
 
-<img src="/images/wilbur.png">
+<img src="/images/wilbur.jpg" width="450">

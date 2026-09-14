@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Abylaikhan's Homepage"
 title_separator          : "-"
 name                     : &name "Abylaikhan Mukhamejanov"
-description              : &description "Lehigh'27 MechE | Undergraduate Researcher"
+description              : &description "Mechanical engineering student at Lehigh University. I build robotic swimmers to study bio-inspired propulsion and unsteady fluid dynamics."
 url                      : https://abylaikhanm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abylaikhanm/abylaikhanm.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "1728451116498.jpeg"
   name             : "Abylaikhan Mukhamejanov"
   pronouns         : # example: "she/her"  
-  bio              : "Mechanical Engineer @Lehigh'27 | Undergraduate Researcher"
+  bio              : "Mechanical Engineering @ Lehigh '27 · Bio-inspired robotics & experimental fluid dynamics"
   location         : "Bethlehem, PA 18015"
   employer         : "Lehigh University"
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "ablaaaym"
+  Instagram        : # "ablaaaym" -- hidden from the professional sidebar; uncomment to restore
   lastfm           : # Username
   linkedin         : "abylaikhan-m"
   mastodon         : # URL
@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "site-logo.png" # filename of teaser fallback teaser image placed in /images/
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -134,7 +134,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
