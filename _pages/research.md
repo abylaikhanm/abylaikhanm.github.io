@@ -75,17 +75,13 @@ Presented at the ONR MURI Annual Review Meeting (Sep 2026) and the [APS Division
 
 *Running PIV experiments in the Lauder Lab — the green sheet is the laser illuminating the seeded flow, with the particle images and motion control on the monitors.*
 
-<!-- ============================================================
-     PHOTO BLOCK — PIV wake vortex visualization.
-     Replace this whole comment with:
-     <img src="/images/YOUR_FILE.png" width="450">
-     ============================================================ -->
+<video src="/images/piv-fish-foil.mp4" width="600" autoplay loop muted playsinline preload="metadata"></video>
 
-<!-- ============================================================
-     GIF BLOCK — leading + trailing fish swimming clip.
-     Replace this whole comment with:
-     <img src="/images/YOUR_FILE.gif" width="450">
-     ============================================================ -->
+*PIV of the leading foil and the trailing fish — red and blue mark opposite-sign vorticity, over the measured velocity field.*
+
+<video src="/images/tracking-points.mp4" width="600" autoplay loop muted playsinline preload="metadata"></video>
+
+*Tracked points on the raw footage — the foil in blue, the fish's body in orange.*
 
 ---
 
