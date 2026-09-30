@@ -18,6 +18,7 @@ I design and build robotic swimmers that study how ocean-wave energy can be turn
 - Traced motion error to backlash through tolerance analysis and redesigned the assembly, **reducing error by 5× and noise by 80%**.
 - Integrated servos, encoders, and a six-axis force/torque sensor using NI DAQ and a MATLAB/Simulink control loop.
 - Added emergency stops, motion and velocity limits, and wrote operating guidance so other lab members can run the rig safely.
+- Working with **TunaBot** robotic fish on inline swimming experiments — a leading and a trailing swimmer in the same channel.
 
 <video src="/images/cpfd-testbed.mp4" width="450" autoplay loop muted playsinline></video>
 
@@ -32,6 +33,18 @@ The 2-DOF rig I designed and built for controlled flapping-hydrofoil testing in 
      Replace this whole comment with:
      <img src="/images/YOUR_FILE.png" width="450">
      ============================================================ -->
+
+### Inline Swimming with TunaBots
+
+Two TunaBot platforms on independent carriages above the water channel, so the spacing and phasing between a leading and a trailing swimmer can be set precisely — the same effect I studied at Harvard, here with two actively swimming robots.
+
+<img src="/images/tunabot-channel.jpg" width="560">
+
+Each carriage carries its own drive motor, controller stack, and onboard computer.
+
+<img src="/images/tunabot-carriage.jpg" width="560">
+
+---
 
 **Presentations**
 
@@ -49,7 +62,7 @@ I studied **in-line swimming**: how a fish swimming behind a leading swimmer gai
 
 **What I did**
 
-- Operated and redesigned an **air-bearing robotic flapper** using LabVIEW, PID control, and NI DAQ.
+- Operated an **air-bearing robotic flapper** using LabVIEW, PID control, and NI DAQ.
 - Ran hydrofoil and passive-fish experiments across flow conditions, and built a test matrix to identify the thrust-generating parameters.
 - Measured how **frequency, pitch amplitude, and flow speed** affect swimming and station-holding performance.
 - Used **particle image velocimetry (PIV)** to map the water flow and visualize wake vortices, processing the data in MATLAB and PIVlab.
