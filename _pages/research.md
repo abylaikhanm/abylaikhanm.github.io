@@ -1,122 +1,59 @@
 ---
 permalink: /research/
-title: "Research Experience"
-excerpt: "Research Experience"
+title: "Research"
+excerpt: "Bio-inspired propulsion and unsteady fluid dynamics: robotic swimmers, cyber-physical test rigs and flow measurement at Lehigh's Unsteady Flow Interactions Lab and Harvard's Lauder Lab."
 author_profile: true
 ---
 
-## [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213), Lehigh University
-*Undergraduate Researcher — Mechanical Design & Test · Nov 2023 – Present · Advisor: [Dr. Keith Moored](https://engineering.lehigh.edu/faculty/keith-w-moored)*
+My research asks how fish swim — and what that teaches us about three things: **more efficient ship propulsion**, **generating energy from ocean waves**, and **how swimmers save energy in groups**. The common thread is hardware: I build the robotic swimmers and test rigs that make the experiments possible, then run them.
 
-I design and build robotic swimmers that study how ocean-wave energy can be turned into thrust. The work runs under an Office of Naval Research program, with applications to ship propulsion and ocean energy generation.
+Over three years I've done this at the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213) at Lehigh with [Dr. Keith Moored](https://engineering.lehigh.edu/faculty/keith-w-moored), and at the [Lauder Laboratory](https://sites.harvard.edu/glauder/) at Harvard with [Dr. George Lauder](https://www.oeb.harvard.edu/people/george-v-lauder), both under Office of Naval Research programs.
 
-**What I did**
+<div class="media-row" markdown="0">
+  <figure class="figure-wide"><video src="/images/cpfd-testbed.mp4" poster="/images/projects/cpfd/rig-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video><figcaption>The cyber-physical robotic flapper I designed and built at Lehigh.</figcaption></figure>
+  <figure class="figure-wide"><video src="/images/piv-fish-foil.mp4" poster="/images/projects/harvard/piv-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video><figcaption>PIV of a leading foil and a trailing passive fish at Harvard.</figcaption></figure>
+</div>
 
-- Designed and built a robotic swimmer system for a water channel to study energy and thrust generation from ocean waves.
-- Built a **cyber-physical platform** that physically replicates programmed mass, stiffness, and damping — foil parameters change in seconds instead of swapping springs and foils or reassembling hardware.
-- Designed **45+ custom parts** in SolidWorks, applying GD&T and DFM/DFA for CNC machining, waterjet cutting, and 3D printing.
-- Traced motion error to backlash through tolerance analysis and redesigned the assembly, **reducing error by 5× and noise by 80%**.
-- Integrated servos, encoders, and a six-axis force/torque sensor using NI DAQ and a MATLAB/Simulink control loop.
-- Added emergency stops, motion and velocity limits, and wrote operating guidance so other lab members can run the rig safely.
-- Working with **TunaBot** robotic fish on inline swimming experiments — a leading and a trailing swimmer in the same channel.
+## Three threads
 
-<video src="/images/cpfd-testbed.mp4" width="450" autoplay loop muted playsinline></video>
+<div class="skills" markdown="0">
+  <div class="skill-group">
+    <h3><i class="fas fa-water" aria-hidden="true"></i>Wave-assisted propulsion &amp; cyber-physical fluid dynamics</h3>
+    <p class="small muted">A foil that pitches and heaves in a water channel while the controller makes it behave like any mass–spring–damper system, chosen in software. Lets us map how ocean-wave motion turns into thrust without rebuilding hardware for each case.</p>
+    <p class="small"><a href="/projects/cyber-physical-robotic-flapper/">Project page &rarr;</a></p>
+  </div>
+  <div class="skill-group">
+    <h3><i class="fas fa-fish" aria-hidden="true"></i>In-line swimming &amp; wake interactions</h3>
+    <p class="small muted">How a follower gains thrust from a leader's wake — with a passive fish behind a robotic flapper at Harvard, and with two actively swimming TunaBot robots at Lehigh. PIV shows the vortices doing the work.</p>
+    <p class="small"><a href="/projects/harvard-inline-swimming/">Harvard &rarr;</a> · <a href="/projects/tunabot-inline-swimming/">TunaBot &rarr;</a></p>
+  </div>
+  <div class="skill-group">
+    <h3><i class="fas fa-wind" aria-hidden="true"></i>Aerodynamic testing</h3>
+    <p class="small muted">Wind-tunnel programs in the same lab: a three-phase UAV test program for Aerotargets International, and aeroelastic wing testing to failure.</p>
+    <p class="small"><a href="/projects/aerotargets-wind-tunnel/">Aerotargets &rarr;</a> · <a href="/projects/aeroelastic-wing/">Aeroelastic wing &rarr;</a></p>
+  </div>
+  <div class="skill-group">
+    <h3><i class="fas fa-toolbox" aria-hidden="true"></i>Methods</h3>
+    <div class="skill-chips"><span>Experiment design &amp; test matrices</span><span>Force/torque measurement</span><span>Real-time control (4 kHz)</span><span>PIV / PIVlab</span><span>2-D tracking &amp; 3-D reconstruction</span><span>MATLAB · Simulink · R · Python</span><span>NI DAQ · LabVIEW</span></div>
+  </div>
+</div>
 
-### Pitch and Heave Setup
+## Presentations & awards
 
-The 2-DOF rig I designed and built for controlled flapping-hydrofoil testing in the water channel.
+- **APS Division of Fluid Dynamics 2026**, Orlando, FL (Nov 2026) — *Passive Swimming Dynamics in a Thrust-Producing Vortex Wake* (with G. Lauder and K. Moored) — presenting.
+- **ONR MURI Annual Review**, Lehigh University (Sep 2026) — *Passive Swimming Dynamics in a Thrust-Producing Vortex Wake*.
+- **Rossin Research Scholar Symposium**, Lehigh University (Jan 2026) — *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics*.
+- **ASME IMECE 2025**, Memphis, TN (Nov 2025) — *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies* (with A. Ardıç and K. Moored) — **Best Undergraduate Research Poster Award (tied 1st)**. [Session details](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171)
+- **APS Division of Fluid Dynamics 2025**, Houston, TX (Nov 2025) — *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics* (with A. Ardıç and K. Moored). [Session details](https://meetings-archive.aps.org/dfd/2025/s00/12/)
+- **ONR MURI Annual Meeting**, Lehigh University (Oct 2025) — WAP project progress: experimental validation and control integration of the cyber-physical testbed.
+- **Mountain Top Research Conference**, Lehigh University (Aug 2024) — *Design and Implementation of a Dual-Axis Pitch and Heave Setup for Bio-Propulsion Studies*.
+- A journal manuscript on the Harvard in-line swimming work (with Harvard and Lehigh co-authors) is in preparation.
 
-<img src="/images/pitchheavesetup.jpg" width="450">
+<figure class="figure-wide">
+  <a href="/images/projects/cpfd/imece-poster.jpg"><img src="/images/projects/cpfd/imece-poster.jpg" alt="ASME IMECE 2025 award-winning poster"></a>
+  <figcaption>The ASME IMECE 2025 poster — Best Undergraduate Research Poster (tied 1st). Click to enlarge.</figcaption>
+</figure>
 
-<!-- ============================================================
-     PHOTO BLOCK — build or detail shot of the setup.
-     Replace this whole comment with:
-     <img src="/images/YOUR_FILE.png" width="450">
-     ============================================================ -->
+## Earlier: nano/human interfaces
 
-### Inline Swimming with TunaBots
-
-Two TunaBot platforms on independent carriages above the water channel, so the spacing and phasing between a leading and a trailing swimmer can be set precisely — the same effect I studied at Harvard, here with two actively swimming robots.
-
-<img src="/images/tunabot-channel.jpg" width="560">
-
-Each carriage carries its own drive motor, controller stack, and onboard computer.
-
-<img src="/images/tunabot-carriage.jpg" width="560">
-
----
-
-**Presentations**
-
-- *Uncovering the Fluid–Structure Interactions of Wave-Assisted Propulsion via Cyber-Physical Fluid Dynamics* — [APS Division of Fluid Dynamics, Houston, TX](https://meetings-archive.aps.org/dfd/2025/s00/12/) (2025)
-- *Design and Validation of a Cyber-Physical Fluid Dynamics System for Bio-Inspired Propulsion Studies* — [ASME IMECE, Memphis, TN](https://imece.secure-platform.com/a/solicitations/261/sessiongallery/21467/application/173171) (2025) — **Best Undergraduate Research Poster Award**
-
-<img src="/images/poster.jpg" width="800">
-
----
-
-## [Lauder Laboratory](https://sites.harvard.edu/glauder/), Harvard University
-*Research Intern — Office of Naval Research MURI Program · May 2026 – Aug 2026 · Advisor: [Dr. George Lauder](https://www.oeb.harvard.edu/people/george-v-lauder)*
-
-I studied **in-line swimming**: how a fish swimming behind a leading swimmer gains thrust from the leader's wake without actively swimming. The same effect could let ships and underwater drones travel more efficiently in groups.
-
-**What I did**
-
-- Operated an **air-bearing robotic flapper** using LabVIEW, PID control, and NI DAQ.
-- Ran hydrofoil and passive-fish experiments across flow conditions, and built a test matrix to identify the thrust-generating parameters.
-- Measured how **frequency, pitch amplitude, and flow speed** affect swimming and station-holding performance.
-- Used **particle image velocimetry (PIV)** to map the water flow and visualize wake vortices, processing the data in MATLAB and PIVlab.
-- Built 2-D tracking and 3-D reconstruction pipelines in **MATLAB and R** to quantify swimming kinematics.
-- Documented test methods and findings in a technical report.
-
-Presented at the ONR MURI Annual Review Meeting (Sep 2026) and the [APS Division of Fluid Dynamics Meeting](https://www.aps.org/events/2026/dfd-annual-meeting-2026) (Nov 2026, Orlando, FL).
-
-<img src="/images/lauder-piv-setup.jpg" width="700">
-
-*Running PIV experiments in the Lauder Lab — the green sheet is the laser illuminating the seeded flow, with the particle images and motion control on the monitors.*
-
-<video src="/images/piv-fish-foil.mp4" width="600" autoplay loop muted playsinline preload="metadata"></video>
-
-*PIV of the leading foil and the trailing fish — red and blue mark opposite-sign vorticity, over the measured velocity field.*
-
-<video src="/images/tracking-points.mp4" width="600" autoplay loop muted playsinline preload="metadata"></video>
-
-*Tracked points on the raw footage — the foil in blue, the fish's body in orange.*
-
----
-
-## Aerotargets International
-*Mechanical Engineering Intern · May 2024 – Aug 2024*
-
-I ran a three-phase [wind-tunnel test program](http://www.aerotargets.com/) on a scaled UAV to characterize its aerodynamic performance and find where the drag was coming from.
-
-**What I did**
-
-- Executed the three-phase test program: preliminary stability, then drag with panels off, then panels on.
-- Designed a SolidWorks fixture mounting the model on a six-axis force/torque sensor, with a **four-bar linkage** to adjust test angles without re-rigging.
-- Analyzed force and moment data using NI DAQ and MATLAB.
-- Recommended fuselage changes contributing to a **10% reduction in drag**.
-
-<img src="/images/drone.jpg" width="450">
-
-<!-- ============================================================
-     PHOTO BLOCK — wind tunnel setup / four-bar linkage fixture.
-     Replace this whole comment with:
-     <img src="/images/YOUR_FILE.png" width="450">
-     ============================================================ -->
-
----
-
-## Nano/Human Interfaces Presidential Initiative, Lehigh University
-*Undergraduate Researcher · Sep 2023 – May 2024*
-
-I turned Atomic Force Microscopy scans of [perovskite solar cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface) into something you can walk around and look at.
-
-**What I did**
-
-- Converted AFM scan datasets into 3-D CAD models of the cell surface.
-- Built an interactive AR system for exploring the surface topography in 3-D.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0la34fWJrFM?start=3" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
----
+In my first year I worked with Lehigh's Nano/Human Interfaces Presidential Initiative, turning atomic-force-microscopy scans of [perovskite solar cells](https://nhi.lehigh.edu/projects/perovskite-solar-cell-surface) into 3-D models you can explore in augmented reality. [Project page &rarr;](/projects/perovskite-ar-visualization/)

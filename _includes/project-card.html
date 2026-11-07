@@ -1,0 +1,18 @@
+{% include base_path %}
+{% assign p = include.project %}
+<a class="project-card" href="{{ base_path }}{{ p.url }}" data-tags="{{ p.tags | join: '|' | downcase }}">
+  <div class="project-card__media">
+    <img src="{{ base_path }}/images/{{ p.header.teaser }}" alt="{{ p.title }}" loading="lazy">
+    {% if p.card_video %}<video src="{{ base_path }}{{ p.card_video }}" muted loop playsinline preload="none" data-hover-video></video>{% endif %}
+    {% if p.badge %}<span class="project-card__badge">{{ p.badge }}</span>{% endif %}
+  </div>
+  <div class="project-card__body">
+    <h3 class="project-card__title">{{ p.title }}</h3>
+    <p class="project-card__result">{{ p.blurb | default: p.excerpt }}</p>
+    {% unless include.compact %}{% if p.tags %}
+    <div class="project-card__tags">
+      {% for t in p.tags %}<span>{{ t }}</span>{% endfor %}
+    </div>
+    {% endif %}{% endunless %}
+  </div>
+</a>

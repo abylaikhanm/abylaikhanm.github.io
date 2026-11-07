@@ -1,34 +1,19 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# Order of the links in the site header.
 main:
   - title: "About"
     url: /
 
-#  - title: "Research Experience"
-#    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Research"
     url: /research/
 
-
-#  - title: "Talks"
-#    url: /talks/    
-
   - title: "Teaching"
-    url: /teach/    
-    
-  - title: "Portfolio"
-    url: /files/abylaikhan_portfolio.pdf
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+    url: /teach/
+
   - title: "Resume"
     url: /files/abylaikhan_resume.pdf
-    
-#  - title: "Guide"
-#    url: /markdown/
+
+  - title: "Portfolio PDF"
+    url: /files/abylaikhan_portfolio.pdf

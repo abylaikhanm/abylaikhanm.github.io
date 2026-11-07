@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abylaikhan's Homepage"
+title                    : "Abylaikhan Mukhamejanov"
 title_separator          : "-"
 name                     : &name "Abylaikhan Mukhamejanov"
-description              : &description "Mechanical engineering student at Lehigh University. I build robotic swimmers to study bio-inspired propulsion and unsteady fluid dynamics."
+description              : &description "Mechanical engineering student at Lehigh University. I build robotic swimmers and experimental setups to study how fish swim, and I design and test hardware for Formula SAE and Lehigh's first CubeSat."
 url                      : https://abylaikhanm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abylaikhanm/abylaikhanm.github.io"
@@ -134,7 +134,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/site-logo.png" # Open Graph/Twitter default site image
+og_image                 : "og-card.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -219,7 +219,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -268,10 +268,10 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: project
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -301,6 +301,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -309,6 +310,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 

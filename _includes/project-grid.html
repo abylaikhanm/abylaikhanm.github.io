@@ -1,0 +1,10 @@
+{% assign sorted = site.portfolio | sort: "order" %}
+<div class="project-grid" id="{{ include.id | default: 'project-grid' }}">
+  {% for p in sorted %}
+    {% if include.featured %}
+      {% if p.featured %}{% include project-card.html project=p compact=include.compact %}{% endif %}
+    {% else %}
+      {% include project-card.html project=p compact=include.compact %}
+    {% endif %}
+  {% endfor %}
+</div>
