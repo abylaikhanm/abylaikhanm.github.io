@@ -1,7 +1,7 @@
 ---
 title: "OSPREY — Lehigh's First CubeSat"
 excerpt: "Lehigh's first satellite, built to spot ocean plastic from orbit. I led the mechanical design."
-blurb: "Lehigh's first satellite, a shoebox-sized CubeSat built to spot ocean plastic from orbit. I led the mechanical design — fitting every component inside the frame and keeping the mass and balance where they need to be — for a team that raised $200K to build it."
+blurb: "Lehigh's first satellite, a shoebox-sized CubeSat built to spot ocean plastic from orbit. I led the mechanical design — fitting every component inside the frame and keeping the mass and balance where they need to be — on a team that raised $200K to send it to space."
 tagline: "A student-built satellite for tracking ocean plastic."
 header:
   teaser: projects/osprey/render-deployed.jpg
@@ -34,7 +34,7 @@ OSPREY is a 3U CubeSat — about the size of a loaf of bread — designed to pho
 
 ## How it turned out
 
-A complete mechanical design for the satellite, a proposal submitted to NASA's CubeSat Launch Initiative, and $200K raised from alumni toward building and launching it. The project is still building toward launch.
+A complete mechanical design for the satellite, a proposal submitted to NASA's CubeSat Launch Initiative, and $200K raised by the team from alumni to send it to space. The project is still building toward launch.
 
 <p class="doc-links" markdown="0"><i class="fas fa-file-pdf" aria-hidden="true"></i> <a href="https://drive.google.com/file/d/1HFVFsZO4rLd7KPLPyvk-KGtrsIB6pKq9/view">Mission overview (PDF)</a> · <a href="https://drive.google.com/file/d/1w6wW3RTmR0EpDcipo0eHy4nWQiP7tt0C/view">NASA CSLI proposal (PDF)</a> · <a href="https://engineering.lehigh.edu/news/article/lehigh-cubesat-secures-federal-funding-and-spaceflight-mentorship">Lehigh Engineering news story</a></p>
 

@@ -41,6 +41,5 @@ Two things came out of the summer. First, a sweet spot: the combinations of flap
   <figure><a href="/images/projects/harvard/air-bearing-rig.jpg"><img src="/images/projects/harvard/air-bearing-rig.jpg" alt="Air-bearing carriage with two NACA 0012 foils"></a><figcaption>The air-bearing carriage and foils.</figcaption></figure>
   <figure><a href="/images/projects/harvard/piv-vorticity.jpg"><img src="/images/projects/harvard/piv-vorticity.jpg" alt="PIV vorticity field behind the foil"></a><figcaption>The vortex wake behind the foil.</figcaption></figure>
   <figure><a href="/images/projects/harvard/piv-jet.jpg"><img src="/images/projects/harvard/piv-jet.jpg" alt="Time-averaged jet behind the flapping foil"></a><figcaption>Averaged over time, the wake is a jet — that's the thrust.</figcaption></figure>
-  <figure><a href="/images/projects/harvard/fish-laser.jpg"><img src="/images/projects/harvard/fish-laser.jpg" alt="A robotic fish lit by the PIV laser sheet"></a><figcaption>A robotic fish in the laser sheet.</figcaption></figure>
   <figure class="contain"><a href="/images/projects/harvard/flume-overhead.jpg"><img src="/images/projects/harvard/flume-overhead.jpg" alt="The Harvard flume with its camera rig and laser optics"></a><figcaption>The flume, cameras and laser optics.</figcaption></figure>
 </div>

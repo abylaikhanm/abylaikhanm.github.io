@@ -12,7 +12,7 @@ redirect_from:
   <div class="hero__text">
     <p class="hero__eyebrow">Mechanical engineering · Lehigh University ’27 · Bethlehem, PA</p>
     <p class="hero__lead">Hey — I’m Abylaikhan, a mechanical engineering student at Lehigh University. I like designing things, building and assembling them, and finally seeing them work, move and do complicated tasks exactly the way I wanted.</p>
-    <p class="hero__lead">Over the last three years I’ve built robotic swimmers for fish-inspired propulsion experiments in labs at Lehigh and Harvard, worked on our Formula SAE car’s suspension, and led the mechanical design of <a href="/projects/osprey-cubesat/">OSPREY</a>, Lehigh’s first satellite, which our team raised $200K to build and launch.</p>
+    <p class="hero__lead">Over the last three years I’ve built robotic swimmers for fish-inspired propulsion experiments in labs at Lehigh and Harvard, worked on our Formula SAE car’s suspension, and led the mechanical design of <a href="/projects/osprey-cubesat/">OSPREY</a>, Lehigh’s first satellite, which our team raised $200K to send to space.</p>
     <div class="hero__actions">
       <a class="btn btn--ghost" href="/projects/"><i class="fas fa-cubes" aria-hidden="true"></i> Projects</a>
       <a class="btn btn--ghost" href="/files/abylaikhan_resume.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Resume</a>
@@ -78,7 +78,7 @@ I’m from Kokshetau, Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I 
 
 > **May 2025:** Awarded the Rossin Research Fellowship to work in the Unsteady Flow Interactions Lab on cyber-physical systems for wave-assisted propulsion (WAP).
 
-> **December 2024:** 🚀 Our team raised $200K in funding to build and launch [OSPREY](/projects/osprey-cubesat/), Lehigh's first nanosatellite 🛰️.
+> **December 2024:** 🚀 Our team raised $200K to send [OSPREY](/projects/osprey-cubesat/), Lehigh's first nanosatellite, to space 🛰️.
 
 > **September 2024:** Started working on the [Bio-Inspired Riverine Power Generation Project](https://engineering.lehigh.edu/meche/research/featured-projects/bio-inspired-riverine-power-generation) 🌊.
 

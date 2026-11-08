@@ -31,12 +31,12 @@ I've done this for three years at the [Unsteady Flow Interactions Laboratory](ht
   <div class="thread thread--strip" id="knoller-betz">
     <div>
       <h3><a href="/projects/harvard-inline-swimming/">At Harvard, we tested in-line swimming — two foils first, then 3-D printed fish</a></h3>
-      <p>A robotic flapper makes a wake and a follower sits behind it: first a trailing foil, then passive fish-shaped bodies. The Knoller–Betz effect is why a flapping wing or tail produces thrust, and we wanted to know when a follower can harvest that thrust from the wake ahead of it. I ran the experiments and imaged the flow with PIV to see the vortices doing the work. We found the sweet-spot settings where the follower gains the most, and learned that it barely has to work to stay there: a passive fish holds a stable position in the wake on its own.</p>
+      <p>At Harvard we looked at how fish swim in groups — the dynamics of swimming in line — and how that could carry over to robotic swimmers. A robotic flapper plays the leading fish; behind it we put first a foil, then 3-D printed fish bodies, and I ran the experiments and imaged the flow with PIV. We found that at particular settings of the leading flapper, the body behind it gets a free ride: it holds its position and picks up thrust without moving on its own, and it doesn't get pushed back. The surprising part is how different this is from a cyclist drafting. A cyclist sits in slowed-down air; a fish's wake actually speeds the water up — yet the unsteady vortices in that wake (the Knoller–Betz effect) pull the follower forward.</p>
     </div>
     <div class="thread__strip">
       <figure><a href="/images/projects/harvard/abylaikhan-lauder-lab.jpg"><img src="/images/projects/harvard/abylaikhan-lauder-lab.jpg" alt="Abylaikhan with the PIV cameras and lasers at the Lauder Lab flume"></a><figcaption>Running the PIV system at the Lauder Lab.</figcaption></figure>
       <figure><video src="/images/piv-fish-foil.mp4" poster="/images/projects/harvard/piv-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video><figcaption>PIV of the foil's wake hitting the trailing fish — red and blue are the two spins of the vortices.</figcaption></figure>
-      <figure><a href="/images/projects/harvard/fish-laser.jpg"><img src="/images/projects/harvard/fish-laser.jpg" alt="A fish model lit by the PIV laser sheet"></a><figcaption>A fish model in the laser sheet.</figcaption></figure>
+      <figure><a href="/images/projects/harvard/air-bearing-rig.jpg"><img src="/images/projects/harvard/air-bearing-rig.jpg" alt="Air-bearing carriage with two foils"></a><figcaption>Two foils on the air-bearing carriage.</figcaption></figure>
     </div>
   </div>
 
