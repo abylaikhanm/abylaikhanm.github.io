@@ -1,7 +1,7 @@
 ---
 title: "OSPREY — Lehigh's First CubeSat"
 excerpt: "Lehigh's first satellite, built to spot ocean plastic from orbit. I led the mechanical design."
-blurb: "Lehigh's first satellite, a shoebox-sized CubeSat built to spot ocean plastic from orbit. I led the mechanical design — structure, packaging and mass — for a team that raised $200K to build it."
+blurb: "Lehigh's first satellite, a shoebox-sized CubeSat built to spot ocean plastic from orbit. I led the mechanical design — fitting every component inside the frame and keeping the mass and balance where they need to be — for a team that raised $200K to build it."
 tagline: "A student-built satellite for tracking ocean plastic."
 header:
   teaser: projects/osprey/render-deployed.jpg
@@ -10,7 +10,7 @@ hero_contain: true
 role: "Lead Mechanical Engineer (mechanical team of six)"
 timeline: "Sep 2023 – Sep 2025"
 team: "Lehigh University Space Initiative"
-tools: "SolidWorks · GD&T · mass budgeting · CubeSat Design Specification"
+tools: "SolidWorks · GD&T · mass properties · CubeSat Design Specification"
 tags: [Mechanical Design, Leadership]
 order: 4
 featured: true
@@ -22,9 +22,9 @@ OSPREY is a 3U CubeSat — about the size of a loaf of bread — designed to pho
 
 ## What I did
 
-- Owned the master CAD model and the packaging: where every board, battery and the camera sits, and how the solar panels and antenna deploy.
-- Ran the mass budget and kept the center of mass and inertia inside the limits the standard sets, because they decide how well the satellite can point its camera.
-- Led a team of six and worked with the power and communications sub-teams to integrate their hardware — when sub-teams wanted the same space, the mass and volume numbers decided it.
+- Owned the master CAD model and the packaging: where every board, battery, antenna and the camera sits inside the frame, and how the solar panels deploy — making sure everything fits, clears everything else, and can actually be assembled.
+- Calculated the satellite's mass, center of gravity and moments of inertia and kept them within the CubeSat standard, since they decide how well the satellite can point its camera.
+- Led a team of six and worked with the power and communications sub-teams to bring their hardware into the design.
 
 <div class="media-row" markdown="0">
   <figure class="figure-wide"><a href="/images/projects/osprey/satellite-starfield.jpg"><img src="/images/projects/osprey/satellite-starfield.jpg" alt="Render of OSPREY with deployed solar panels"></a><figcaption>OSPREY with its solar arrays and antenna deployed.</figcaption></figure>
@@ -36,7 +36,7 @@ OSPREY is a 3U CubeSat — about the size of a loaf of bread — designed to pho
 
 ## How it turned out
 
-We trimmed the mass budget by about a quarter and freed up a third more room for the payload, submitted a proposal to NASA's CubeSat Launch Initiative, and the team raised $200K from alumni and sponsors toward building and launching the satellite. The project is still building toward launch.
+A complete mechanical design for the satellite, a proposal submitted to NASA's CubeSat Launch Initiative, and $200K raised by the team from alumni and sponsors toward building and launching it. The project is still building toward launch.
 
 <div class="gallery gallery--4 gallery--contain" markdown="0">
   <figure><a href="/images/projects/osprey/render-deployed.jpg"><img src="/images/projects/osprey/render-deployed.jpg" alt="CAD render of OSPREY with deployed arrays"></a><figcaption>Deployed configuration in CAD.</figcaption></figure>

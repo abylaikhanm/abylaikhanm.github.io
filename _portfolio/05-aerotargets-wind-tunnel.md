@@ -1,8 +1,8 @@
 ---
 title: "Drone Wind-Tunnel Testing — Aerotargets"
-excerpt: "Wind-tunnel testing of a scaled target drone during my internship at Aerotargets International."
-blurb: "Wind-tunnel testing of a scaled target drone during my internship at Aerotargets International — the mounting fixture, force measurements up to 84 mph, and recommendations for cutting drag."
-tagline: "Finding out where a drone's drag comes from — and how to cut it."
+excerpt: "A summer of wind-tunnel testing on a scaled target drone during my internship at Aerotargets International."
+blurb: "A summer of wind-tunnel testing on a scaled target drone during my internship at Aerotargets International — designing the mounting fixture, running the speed sweeps up to 84 mph, and turning the force data into something the company's engineers could use."
+tagline: "A lot of wind-tunnel time with a scaled drone, to find out how it really flies."
 header:
   teaser: projects/aerotargets/drone-model.jpg
   image: projects/aerotargets/drone-model.jpg
@@ -32,10 +32,10 @@ Aerotargets builds target drones for training, and they wanted real numbers on h
 
 ## How it turned out
 
-The lift was already as good as theory says it can be, so the only way to fly more efficiently was less drag. The fuselage-panel changes we recommended to Aerotargets' engineers lowered drag and raised the lift-to-drag ratio by about ten percent.
+Three phases of testing added up to a full picture of how the airframe behaves: lift and drag across speeds and angles, how the fuselage panels change things, and how the model compares with the published wing data. We wrote it all up for Aerotargets' engineers, together with our suggestions for where the fuselage could be cleaned up.
 
 <div class="gallery gallery--contain" markdown="0">
   <figure><a href="/images/projects/aerotargets/plot-cd.png"><img src="/images/projects/aerotargets/plot-cd.png" alt="Drag coefficient vs angle of attack"></a><figcaption>Drag versus angle of attack, panels on and off.</figcaption></figure>
-  <figure><a href="/images/projects/aerotargets/plot-cl.png"><img src="/images/projects/aerotargets/plot-cl.png" alt="Lift coefficient vs angle of attack with thin-airfoil theory"></a><figcaption>Lift follows the theory line — so the gains had to come from drag.</figcaption></figure>
+  <figure><a href="/images/projects/aerotargets/plot-cl.png"><img src="/images/projects/aerotargets/plot-cl.png" alt="Lift coefficient vs angle of attack with thin-airfoil theory"></a><figcaption>Lift follows the theory line closely.</figcaption></figure>
   <figure><a href="/images/projects/aerotargets/plot-ld.png"><img src="/images/projects/aerotargets/plot-ld.png" alt="Lift-to-drag ratio vs angle of attack"></a><figcaption>Lift-to-drag ratio across the test phases.</figcaption></figure>
 </div>

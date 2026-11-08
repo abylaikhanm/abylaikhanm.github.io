@@ -26,14 +26,13 @@ I started as a TA in my own first year and have helped run the lab side of Lehig
 
 For a semester I ran the student makerspace ten hours a week, helping students and clubs get their designs made on the right machine — 3D printers, CNC routers, waterjet and laser cutters — for 30-odd projects. Picking the manufacturing process *before* finishing the design is a habit I picked up here and still use on every part I draw.
 
-<div class="teach-grid" markdown="0">
-  <figure><img src="/images/projects/teaching/makerspace-01.jpg" alt="Students working on a project in the makerspace" loading="lazy"></figure>
-  <figure><img src="/images/projects/teaching/makerspace-02.jpg" alt="Students building a robot" loading="lazy"></figure>
-  <figure><img src="/images/projects/teaching/makerspace-03.jpg" alt="A student wiring electronics" loading="lazy"></figure>
-  <figure><img src="/images/projects/teaching/makerspace-06.jpg" alt="Students at the CNC router" loading="lazy"></figure>
-  <figure><img src="/images/projects/teaching/makerspace-07.jpg" alt="Students testing a rover outdoors" loading="lazy"></figure>
-  <figure><img src="/images/projects/teaching/makerspace-09.jpg" alt="Hands-on electronics work" loading="lazy"></figure>
+<div class="teach-grid teach-grid--4" markdown="0">
+  <figure><img src="/images/projects/teaching/equip-3d-printers.jpg" alt="A row of 3D printers" loading="lazy"><figcaption>3D printers</figcaption></figure>
+  <figure><img src="/images/projects/teaching/equip-cnc-router.jpg" alt="CNC router in a workshop" loading="lazy"><figcaption>CNC router</figcaption></figure>
+  <figure><img src="/images/projects/teaching/equip-waterjet.jpg" alt="Waterjet cutting head" loading="lazy"><figcaption>Waterjet cutter</figcaption></figure>
+  <figure><img src="/images/projects/teaching/equip-laser-cutter.jpg" alt="Laser cutter cutting plywood" loading="lazy"><figcaption>Laser cutter</figcaption></figure>
 </div>
+<p class="credits">Equipment photos via Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:3D_printer_farm_at_Hackerspace_Wroc%C5%82aw.jpg">Majabojarska</a> (CC BY 4.0), <a href="https://commons.wikimedia.org/wiki/File:CNC_router_in_workshop.jpg">matthew venn</a> (CC BY-SA 2.0), <a href="https://commons.wikimedia.org/wiki/File:Water_jet_cutter%27s_head.jpg">Márton Kiss-Albert</a> (CC BY-SA 3.0), <a href="https://commons.wikimedia.org/wiki/File:Laser_cutting_snowflakes.jpg">Andy Dingley</a> (CC BY-SA 3.0).</p>
 
 ## Elsewhere
 

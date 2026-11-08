@@ -5,8 +5,9 @@ blurb: "A summer at Harvard's Lauder Lab studying how a fish swimming behind ano
 tagline: "Why does a fish behind another fish swim for free?"
 header:
   teaser: projects/harvard/piv-lab.jpg
-  image: projects/harvard/piv-lab.jpg
+  image: projects/harvard/abylaikhan-lauder-lab.jpg
 card_video: /images/piv-fish-foil.mp4
+hero_alt: "Abylaikhan next to the flume and laser setup in the Lauder Lab"
 role: "Research Intern, Office of Naval Research MURI program"
 timeline: "May – Aug 2026"
 team: "Lauder Laboratory, Harvard University · Prof. George Lauder"

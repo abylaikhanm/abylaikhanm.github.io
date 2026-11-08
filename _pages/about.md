@@ -11,7 +11,7 @@ redirect_from:
 <div class="hero" markdown="0">
   <div>
     <p class="hero__eyebrow">Mechanical engineering · Lehigh University ’27 · Bethlehem, PA</p>
-    <p class="hero__lead">Hey — I’m Abylaikhan, a mechanical engineering student at Lehigh University. I like building things that move and then finding out how they really behave.</p>
+    <p class="hero__lead">Hey — I’m Abylaikhan, a mechanical engineer at Lehigh University. I love designing, building and testing things, especially when I get to watch the result finally do something hard: an underwater robot swimming in a test channel, our Formula car out on the track, and — hopefully soon — our nanosatellite going to space.</p>
     <p class="hero__lead">Over the last three years that has meant robotic swimmers and experimental setups in research labs at Lehigh and Harvard, a summer of wind-tunnel testing at a drone company, carbon-fiber suspension for our Formula SAE race car, and leading the mechanical design of <a href="/projects/osprey-cubesat/">OSPREY</a>, Lehigh’s first satellite — a project our team raised $200K to build and launch.</p>
     <div class="hero__actions">
       <a class="btn btn--ghost" href="/projects/"><i class="fas fa-cubes" aria-hidden="true"></i> Projects</a>
@@ -112,7 +112,7 @@ I’m from Kokshetau, Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I 
   <li><span class="timeline__when">Nov 2023 – present</span><span class="timeline__what">Undergraduate Researcher — Mechanical Design &amp; Test</span><span class="timeline__where"><a href="https://wordpress.lehigh.edu/kwm213">Unsteady Flow Interactions Lab, Lehigh University</a> · Prof. Keith Moored</span><span class="timeline__note">Designed and built the lab’s cyber-physical robotic flapper and run the experiments on it.</span></li>
   <li><span class="timeline__when">Dec 2025 – present</span><span class="timeline__what">Design &amp; Manufacturing Engineer</span><span class="timeline__where"><a href="https://sites.google.com/lehigh.edu/lehighracing">Lehigh Formula SAE</a></span><span class="timeline__note">Carbon-fiber suspension control arms — design, FEA, machining and testing.</span></li>
   <li><span class="timeline__when">May – Aug 2024</span><span class="timeline__what">Mechanical Engineering Intern</span><span class="timeline__where"><a href="http://www.aerotargets.com/">Aerotargets International</a> · Kingston, PA</span><span class="timeline__note">Wind-tunnel test program on a scaled target drone.</span></li>
-  <li><span class="timeline__when">Sep 2023 – Sep 2025</span><span class="timeline__what">Lead Mechanical Engineer, OSPREY CubeSat</span><span class="timeline__where">Lehigh University Space Initiative</span><span class="timeline__note">Structure, packaging and mass budget for Lehigh’s first satellite; led a team of six.</span></li>
+  <li><span class="timeline__when">Sep 2023 – Sep 2025</span><span class="timeline__what">Lead Mechanical Engineer, OSPREY CubeSat</span><span class="timeline__where">Lehigh University Space Initiative</span><span class="timeline__note">Structure, packaging and mass properties for Lehigh’s first satellite; led a team of six.</span></li>
   <li><span class="timeline__when">Dec 2023 – present</span><span class="timeline__what">Head Teaching Assistant, ENGR 010 · Makerspace Coordinator (2024–25)</span><span class="timeline__where">Lehigh University</span><span class="timeline__note">Weekly Python and robotics labs for first-year engineers; ran the makerspace for a semester. <a href="/teach/">More &rarr;</a></span></li>
 </ul>
 
@@ -127,12 +127,12 @@ I’m from Kokshetau, Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I 
 </div>
 
 <div class="process-tiles" markdown="0">
-  <figure><img src="/images/projects/fsae/lathe.jpg" alt="Turning a part on the lathe" loading="lazy"><figcaption>Lathe &amp; mill</figcaption></figure>
-  <figure><img src="/images/projects/fsae/bonding.jpg" alt="Bonding carbon tubes to aluminum" loading="lazy"><figcaption>Composite bonding</figcaption></figure>
-  <figure><img src="/images/projects/injection/mold-machined.jpg" alt="Machined injection mold" loading="lazy"><figcaption>Injection molding</figcaption></figure>
-  <figure><img src="/images/projects/fsae/instron.jpg" alt="Instron load frame" loading="lazy"><figcaption>Load testing</figcaption></figure>
-  <figure><img src="/images/projects/aerotargets/wind-tunnel.jpg" alt="Wind tunnel" loading="lazy"><figcaption>Wind tunnel</figcaption></figure>
-  <figure><img src="/images/projects/cpfd/water-channel.jpg" alt="Water channel" loading="lazy"><figcaption>Water channel</figcaption></figure>
-  <figure><img src="/images/projects/harvard/piv-lab.jpg" alt="PIV laser sheet" loading="lazy"><figcaption>PIV flow imaging</figcaption></figure>
-  <figure><img src="/images/projects/fsae/connector-fea.jpg" alt="FEA of a suspension connector" loading="lazy"><figcaption>FEA</figcaption></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/lathe.jpg" title="Lathe &amp; mill"><img src="/images/projects/fsae/lathe.jpg" alt="Turning a part on the lathe" loading="lazy"><figcaption>Lathe &amp; mill</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/bonding.jpg" title="Composite bonding"><img src="/images/projects/fsae/bonding.jpg" alt="Bonding carbon tubes to aluminum" loading="lazy"><figcaption>Composite bonding</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/injection/mold-machined.jpg" title="Injection molding"><img src="/images/projects/injection/mold-machined.jpg" alt="Machined injection mold" loading="lazy"><figcaption>Injection molding</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/instron.jpg" title="Load testing"><img src="/images/projects/fsae/instron.jpg" alt="Instron load frame" loading="lazy"><figcaption>Load testing</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/aerotargets/wind-tunnel.jpg" title="Wind tunnel"><img src="/images/projects/aerotargets/wind-tunnel.jpg" alt="Wind tunnel" loading="lazy"><figcaption>Wind tunnel</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/cpfd/water-channel.jpg" title="Water channel"><img src="/images/projects/cpfd/water-channel.jpg" alt="Water channel" loading="lazy"><figcaption>Water channel</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/harvard/piv-lab.jpg" title="PIV flow imaging"><img src="/images/projects/harvard/piv-lab.jpg" alt="PIV laser sheet" loading="lazy"><figcaption>PIV flow imaging</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/connector-fea.jpg" title="FEA"><img src="/images/projects/fsae/connector-fea.jpg" alt="FEA of a suspension connector" loading="lazy"><figcaption>FEA</figcaption></a></figure>
 </div>

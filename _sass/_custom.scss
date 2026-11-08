@@ -566,6 +566,42 @@ $shadow-md       : 0 6px 18px rgba(15,92,140,.14);
 .nowrap { white-space: nowrap; }
 
 
+
+/* ---------- Research threads ---------- */
+.threads { margin: 1.2em 0 1.6em; }
+.thread {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 1.1em;
+  align-items: center;
+  padding: 1em 0;
+  border-top: 1px solid $line;
+  &:first-child { border-top: 0; }
+  @media (max-width: 600px) { grid-template-columns: 1fr; gap: .6em; }
+  figure { margin: 0; border-radius: 10px; overflow: hidden; background: #f3f5f7; border: 1px solid $line;
+    img, video { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+    a { display: block; }
+  }
+  h3 { margin: 0 0 .35em; font-size: 1.05em; line-height: 1.3; a { color: $ink; text-decoration: none; &:hover { color: $accent; } } }
+  p { margin: 0; font-size: .95em; color: $ink-soft; }
+}
+.thread--contain figure img { object-fit: contain; background: #fff; padding: .3em; box-sizing: border-box; }
+.thread--next { background: $accent-soft; border-top: 0 !important; border-radius: $card-radius; padding: 1em; margin-top: .6em;
+  h3 { color: $accent-dark; } p { color: $ink; } }
+
+.teach-grid--4 { grid-template-columns: repeat(4, 1fr); @media (max-width: 700px) { grid-template-columns: repeat(2, 1fr); }
+  figure { position: relative; }
+  figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: .45em .6em; font-size: .72em; font-weight: 700; color: #fff; font-style: normal; font-family: $global-font-family; background: linear-gradient(to top, rgba(0,0,0,.7), rgba(0,0,0,0)); }
+}
+.credits { font-size: .72em; color: $ink-soft; margin: .2em 0 1.2em; a { color: $ink-soft; } }
+.process-tiles figure a.tile-img { display: block; width: 100%; height: 100%; cursor: zoom-in; }
+.process-tiles figure img { transition: transform .35s ease; }
+.process-tiles figure:hover img { transform: scale(1.04); }
+.process-tiles figcaption { pointer-events: none; }
+.process-tiles figcaption a { pointer-events: auto; }
+.process-tiles .tile-link { display: block; margin-top: .15em; font-size: .9em; font-weight: 500; color: #fff !important; opacity: .8; text-decoration: none; border-bottom: 0 !important; }
+.process-tiles .tile-link:hover { opacity: 1; text-decoration: underline; }
+
 /* widen the content column a little (theme default leaves a 2-column gap on the right) */
 .page {
   @include breakpoint($large) {
@@ -592,3 +628,6 @@ $shadow-md       : 0 6px 18px rgba(15,92,140,.14);
   &:hover { background: $accent-dark; }
 }
 
+/* ---------- Lightbox caption in the site font ---------- */
+.mfp-title, .mfp-counter { font-family: $global-font-family; }
+.mfp-title { font-size: .9em; }
