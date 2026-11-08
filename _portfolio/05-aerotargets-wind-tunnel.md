@@ -2,7 +2,7 @@
 title: "Drone Wind-Tunnel Testing — Aerotargets"
 excerpt: "A summer of wind-tunnel testing on a scaled target drone during my internship at Aerotargets International."
 blurb: "A summer of wind-tunnel testing on a scaled target drone during my internship at Aerotargets International — designing the mounting fixture, running the speed sweeps up to 84 mph, and turning the force data into something the company's engineers could use."
-tagline: "A lot of wind-tunnel time with a scaled drone, to find out how it really flies."
+tagline: "A summer of wind-tunnel studies on a scaled drone, on a test rig I built."
 header:
   teaser: projects/aerotargets/drone-model.jpg
   image: projects/aerotargets/drone-model.jpg
@@ -32,7 +32,7 @@ Aerotargets builds target drones for training, and they wanted real numbers on h
 
 ## How it turned out
 
-Three phases of testing added up to a full picture of how the airframe behaves: lift and drag across speeds and angles, how the fuselage panels change things, and how the model compares with the published wing data. We wrote it all up for Aerotargets' engineers, together with our suggestions for where the fuselage could be cleaned up.
+We ran every kind of study the tunnel allowed — speed sweeps, angle-of-attack sweeps, panels on and off, and comparisons with the published wing data — on the rig I designed and built for the model. All of it went into a report for Aerotargets' engineers.
 
 <div class="gallery gallery--contain" markdown="0">
   <figure><a href="/images/projects/aerotargets/plot-cd.png"><img src="/images/projects/aerotargets/plot-cd.png" alt="Drag coefficient vs angle of attack"></a><figcaption>Drag versus angle of attack, panels on and off.</figcaption></figure>

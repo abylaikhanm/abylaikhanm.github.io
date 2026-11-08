@@ -1,7 +1,7 @@
 ---
 title: "Cyber-Physical Robotic Flapper"
 excerpt: "A two-axis robotic foil I designed and built for Lehigh's water channel to study how ocean waves can be turned into thrust."
-blurb: "A robotic foil I designed and built for Lehigh's water channel. It can behave like any spring-mounted foil you program, so the lab can test ideas in minutes instead of rebuilding hardware. Best Undergraduate Poster at ASME IMECE 2025."
+blurb: "A robotic foil I designed and built for Lehigh's water channel. Its control loop physically reproduces any spring you program — stiffness, damping, inertia — without a single real spring, so the lab changes the setup with a keystroke instead of rebuilding it. Best Undergraduate Poster at ASME IMECE 2025."
 tagline: "A robotic swimmer that can pretend to be any spring you type into the software."
 header:
   teaser: projects/cpfd/rig-cad.jpg

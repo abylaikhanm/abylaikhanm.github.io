@@ -15,8 +15,11 @@ main:
   - title: "Teaching"
     url: /teach/
 
-  - title: "Resume"
+  - title: "Resume PDF"
     url: /files/abylaikhan_resume.pdf
 
   - title: "Portfolio PDF"
     url: /files/abylaikhan_portfolio.pdf
+
+  - title: "Academic CV PDF"
+    url: /files/abylaikhan_academic_cv.pdf

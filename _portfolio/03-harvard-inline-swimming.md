@@ -4,7 +4,7 @@ excerpt: "A summer at Harvard's Lauder Lab studying how a fish swimming behind a
 blurb: "A summer at Harvard's Lauder Lab studying how a fish swimming behind another one gets a free ride from its wake — robotic flappers, 3-D printed fish and laser flow imaging."
 tagline: "Why does a fish behind another fish swim for free?"
 header:
-  teaser: projects/harvard/piv-lab.jpg
+  teaser: projects/harvard/abylaikhan-lauder-lab.jpg
   image: projects/harvard/abylaikhan-lauder-lab.jpg
 card_video: /images/piv-fish-foil.mp4
 hero_alt: "Abylaikhan next to the flume and laser setup in the Lauder Lab"
@@ -34,13 +34,13 @@ Fish in schools save energy by riding the wakes of the fish ahead of them. If we
 
 ## How it turned out
 
-The trailing fish really does gain thrust from the leader's wake without swimming, and we quantified how that changes with the leader's motion and the flow speed. I presented the results at the ONR program review in September 2026 and am presenting them at the APS Division of Fluid Dynamics meeting in November; a journal paper with the Harvard and Lehigh groups is in the works.
+Two things came out of the summer. First, a sweet spot: the combinations of flapping frequency, amplitude and spacing where a trailing body gets a real push from the wake — settings the robotic-fish experiments can now use directly. Second, the follower barely has to work for it: a passive fish settles into a stable position in the wake on its own, moving with the flow rather than fighting it, and still collects the benefit. I presented the results at the ONR program review in September 2026 and am presenting them at the APS Division of Fluid Dynamics meeting in November; a journal paper with the Harvard and Lehigh groups is in the works.
 
 <div class="gallery" markdown="0">
   <figure><a href="/images/projects/harvard/piv-lab.jpg"><img src="/images/projects/harvard/piv-lab.jpg" alt="Running PIV in the Lauder Lab with the green laser sheet"></a><figcaption>Running PIV — the green sheet is the laser.</figcaption></figure>
   <figure><a href="/images/projects/harvard/air-bearing-rig.jpg"><img src="/images/projects/harvard/air-bearing-rig.jpg" alt="Air-bearing carriage with two NACA 0012 foils"></a><figcaption>The air-bearing carriage and foils.</figcaption></figure>
-  <figure><a href="/images/projects/harvard/passive-fish.jpg"><img src="/images/projects/harvard/passive-fish.jpg" alt="3D-printed passive fish in the flume"></a><figcaption>A 3-D printed fish in the flume.</figcaption></figure>
   <figure><a href="/images/projects/harvard/piv-vorticity.jpg"><img src="/images/projects/harvard/piv-vorticity.jpg" alt="PIV vorticity field behind the foil"></a><figcaption>The vortex wake behind the foil.</figcaption></figure>
   <figure><a href="/images/projects/harvard/piv-jet.jpg"><img src="/images/projects/harvard/piv-jet.jpg" alt="Time-averaged jet behind the flapping foil"></a><figcaption>Averaged over time, the wake is a jet — that's the thrust.</figcaption></figure>
-  <figure><a href="/images/projects/harvard/flume-overhead.jpg"><img src="/images/projects/harvard/flume-overhead.jpg" alt="Overhead view of the Harvard flume and instrumentation"></a><figcaption>The flume, cameras and laser optics.</figcaption></figure>
+  <figure><a href="/images/projects/harvard/fish-laser.jpg"><img src="/images/projects/harvard/fish-laser.jpg" alt="A robotic fish lit by the PIV laser sheet"></a><figcaption>A robotic fish in the laser sheet.</figcaption></figure>
+  <figure class="contain"><a href="/images/projects/harvard/flume-overhead.jpg"><img src="/images/projects/harvard/flume-overhead.jpg" alt="The Harvard flume with its camera rig and laser optics"></a><figcaption>The flume, cameras and laser optics.</figcaption></figure>
 </div>

@@ -16,7 +16,7 @@ category_label: "Research · robotics"
 permalink: /projects/tunabot-inline-swimming/
 ---
 
-The lab's two TunaBot robotic fish swim one behind the other in the water channel, each on its own carriage so we can set the spacing and the timing between their tail beats precisely. It's the actively swimming version of the question I worked on at Harvard: how does a follower use the wake of the fish in front?
+The lab's two TunaBot robotic fish swim one behind the other in the water channel, each on its own carriage so we can set the spacing and the timing between their tail beats precisely. The carriages ride on air bearings, so there is no friction and each fish is free to move back and forth with the flow. It's the actively swimming version of the question I worked on at Harvard: how does a follower use the wake of the fish in front? The spacings and timings we test are the sweet-spot settings that came out of the Harvard experiments.
 
 ## What I did
 
@@ -32,4 +32,4 @@ The lab's two TunaBot robotic fish swim one behind the other in the water channe
 
 ## How it turned out
 
-Wake flow fields between leader and follower across the different timings, compared with the passive 3-D printed fish experiments — all feeding the same Navy-funded research program as the Harvard work.
+Wake flow fields between leader and follower at the Harvard sweet-spot settings and across the different timings, now with both fish actively swimming — all feeding the same Navy-funded research program as the Harvard work.

@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <div class="hero" markdown="0">
-  <div>
+  <div class="hero__text">
     <p class="hero__eyebrow">Mechanical engineering · Lehigh University ’27 · Bethlehem, PA</p>
-    <p class="hero__lead">Hey — I’m Abylaikhan, a mechanical engineer at Lehigh University. I love designing, building and testing things, especially when I get to watch the result finally do something hard: an underwater robot swimming in a test channel, our Formula car out on the track, and — hopefully soon — our nanosatellite going to space.</p>
-    <p class="hero__lead">Over the last three years that has meant robotic swimmers and experimental setups in research labs at Lehigh and Harvard, a summer of wind-tunnel testing at a drone company, carbon-fiber suspension for our Formula SAE race car, and leading the mechanical design of <a href="/projects/osprey-cubesat/">OSPREY</a>, Lehigh’s first satellite — a project our team raised $200K to build and launch.</p>
+    <p class="hero__lead">Hey — I’m Abylaikhan, a mechanical engineering student at Lehigh University. I like designing things, building and assembling them, and finally seeing them work, move and do complicated tasks exactly the way I wanted.</p>
+    <p class="hero__lead">Over the last three years I’ve built robotic swimmers for fish-inspired propulsion experiments in labs at Lehigh and Harvard, worked on our Formula SAE car’s suspension, and led the mechanical design of <a href="/projects/osprey-cubesat/">OSPREY</a>, Lehigh’s first satellite, which our team raised $200K to build and launch.</p>
     <div class="hero__actions">
       <a class="btn btn--ghost" href="/projects/"><i class="fas fa-cubes" aria-hidden="true"></i> Projects</a>
       <a class="btn btn--ghost" href="/files/abylaikhan_resume.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Resume</a>
@@ -21,15 +21,15 @@ redirect_from:
   </div>
   <div class="hero__media">
     <figure class="hero__tall">
-      <video src="/images/cpfd-testbed.mp4" poster="/images/projects/cpfd/rig-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video>
+      <a href="/projects/cyber-physical-robotic-flapper/" aria-label="Cyber-physical robotic flapper project"><video src="/images/cpfd-testbed.mp4" poster="/images/projects/cpfd/rig-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video></a>
       <figcaption>The robotic flapper I built at Lehigh</figcaption>
     </figure>
     <figure>
       <a href="/projects/fsae-carbon-fiber-control-arms/"><img src="/images/projects/fsae/suspension-cad.jpg" alt="Formula SAE suspension CAD"></a>
-      <figcaption>Formula SAE carbon-fiber arms</figcaption>
+      <figcaption>Formula SAE suspension arms</figcaption>
     </figure>
     <figure>
-      <video src="/images/piv-fish-foil.mp4" poster="/images/projects/harvard/piv-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video>
+      <a href="/projects/harvard-inline-swimming/" aria-label="Harvard in-line swimming project"><video src="/images/piv-fish-foil.mp4" poster="/images/projects/harvard/piv-video-poster.jpg" autoplay loop muted playsinline preload="metadata"></video></a>
       <figcaption>Flow imaging at Harvard’s Lauder Lab</figcaption>
     </figure>
   </div>
@@ -119,20 +119,24 @@ I’m from Kokshetau, Kazakhstan, and I ski ⛷ and ride horses 🐎 whenever I 
 <h2 class="section-title">Skills</h2>
 
 <div class="loop" markdown="0">
-  <div class="loop__step"><i class="fas fa-drafting-compass loop__icon" aria-hidden="true"></i><span class="loop__name">Design</span><span class="loop__tools">SolidWorks · engineering drawings &amp; GD&amp;T · tolerance analysis · DFM/DFA · FMEA</span></div>
-  <div class="loop__step"><i class="fas fa-industry loop__icon" aria-hidden="true"></i><span class="loop__name">Make</span><span class="loop__tools">CNC mill &amp; lathe · waterjet · laser cutting · 3D printing · composite bonding · injection molding</span></div>
-  <div class="loop__step"><i class="fas fa-microchip loop__icon" aria-hidden="true"></i><span class="loop__name">Instrument</span><span class="loop__tools">NI DAQ · LabVIEW · force/torque sensors · encoders &amp; servos · Arduino · Raspberry Pi</span></div>
-  <div class="loop__step"><i class="fas fa-sliders-h loop__icon" aria-hidden="true"></i><span class="loop__name">Control &amp; code</span><span class="loop__tools">MATLAB / Simulink · PID control · Python · C++ · R</span></div>
-  <div class="loop__step"><i class="fas fa-vial loop__icon" aria-hidden="true"></i><span class="loop__name">Analyze &amp; test</span><span class="loop__tools">ANSYS FEA · test planning · wind tunnel &amp; water channel · Instron · PIV flow imaging</span></div>
+  <a class="loop__step" href="/skills/"><i class="fas fa-drafting-compass loop__icon" aria-hidden="true"></i><span class="loop__name">Design</span><span class="loop__tools">SolidWorks · engineering drawings &amp; GD&amp;T · tolerance analysis · DFM/DFA · FMEA</span></a>
+  <a class="loop__step" href="/skills/"><i class="fas fa-industry loop__icon" aria-hidden="true"></i><span class="loop__name">Make</span><span class="loop__tools">CNC mill &amp; lathe · waterjet · laser cutting · 3D printing · composite bonding · injection molding</span></a>
+  <a class="loop__step" href="/skills/"><i class="fas fa-microchip loop__icon" aria-hidden="true"></i><span class="loop__name">Instrument</span><span class="loop__tools">NI DAQ · LabVIEW · force/torque sensors · encoders &amp; servos · Arduino · Raspberry Pi</span></a>
+  <a class="loop__step" href="/skills/"><i class="fas fa-sliders-h loop__icon" aria-hidden="true"></i><span class="loop__name">Control &amp; code</span><span class="loop__tools">MATLAB / Simulink · PID control · Python · C++ · R</span></a>
+  <a class="loop__step" href="/skills/"><i class="fas fa-vial loop__icon" aria-hidden="true"></i><span class="loop__name">Analyze &amp; test</span><span class="loop__tools">ANSYS FEA · test planning · wind tunnel &amp; water channel · Instron · PIV flow imaging</span></a>
 </div>
 
 <div class="process-tiles" markdown="0">
+  <figure><a class="tile-img" href="/images/projects/cpfd/rig-photo.jpg" title="Mechatronics &amp; control"><img src="/images/projects/cpfd/rig-photo.jpg" alt="The robotic flapper rig" loading="lazy"><figcaption>Mechatronics &amp; control</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/osprey/render-deployed.jpg" title="CAD &amp; packaging"><img src="/images/projects/osprey/render-deployed.jpg" alt="CAD render of the OSPREY CubeSat" loading="lazy"><figcaption>CAD &amp; packaging</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/connector-fea.jpg" title="FEA"><img src="/images/projects/fsae/connector-fea.jpg" alt="FEA of a suspension connector" loading="lazy"><figcaption>FEA</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/fsae/lathe.jpg" title="Lathe &amp; mill"><img src="/images/projects/fsae/lathe.jpg" alt="Turning a part on the lathe" loading="lazy"><figcaption>Lathe &amp; mill</figcaption></a></figure>
-  <figure><a class="tile-img" href="/images/projects/fsae/bonding.jpg" title="Composite bonding"><img src="/images/projects/fsae/bonding.jpg" alt="Bonding carbon tubes to aluminum" loading="lazy"><figcaption>Composite bonding</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/injection/mold-machined.jpg" title="Injection molding"><img src="/images/projects/injection/mold-machined.jpg" alt="Machined injection mold" loading="lazy"><figcaption>Injection molding</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/fsae/instron.jpg" title="Load testing"><img src="/images/projects/fsae/instron.jpg" alt="Instron load frame" loading="lazy"><figcaption>Load testing</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/fsae/bonding.jpg" title="Composite bonding"><img src="/images/projects/fsae/bonding.jpg" alt="Bonding carbon tubes to aluminum" loading="lazy"><figcaption>Composite bonding</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/skillsat/kit-demo.jpg" title="3D printing"><img src="/images/projects/skillsat/kit-demo.jpg" alt="3D-printed satellite kit" loading="lazy"><figcaption>3D printing</figcaption></a></figure>
+  <figure><a class="tile-img" href="/images/projects/wing/wing-build.jpg" title="Laser cutting"><img src="/images/projects/wing/wing-build.jpg" alt="Laser-cut wing with carbon reinforcement" loading="lazy"><figcaption>Laser cutting</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/aerotargets/wind-tunnel.jpg" title="Wind tunnel"><img src="/images/projects/aerotargets/wind-tunnel.jpg" alt="Wind tunnel" loading="lazy"><figcaption>Wind tunnel</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/cpfd/water-channel.jpg" title="Water channel"><img src="/images/projects/cpfd/water-channel.jpg" alt="Water channel" loading="lazy"><figcaption>Water channel</figcaption></a></figure>
   <figure><a class="tile-img" href="/images/projects/harvard/piv-lab.jpg" title="PIV flow imaging"><img src="/images/projects/harvard/piv-lab.jpg" alt="PIV laser sheet" loading="lazy"><figcaption>PIV flow imaging</figcaption></a></figure>
-  <figure><a class="tile-img" href="/images/projects/fsae/connector-fea.jpg" title="FEA"><img src="/images/projects/fsae/connector-fea.jpg" alt="FEA of a suspension connector" loading="lazy"><figcaption>FEA</figcaption></a></figure>
 </div>

@@ -7,6 +7,8 @@ author_profile: true
 
 Things I've designed, built and tested over the last few years — research rigs, race-car suspension, a satellite, wind-tunnel programs, tooling and simulation. Each page has a short write-up with the photos, CAD and data behind it.
 
+<p class="pdf-note" markdown="0"><i class="fas fa-file-pdf" aria-hidden="true"></i> Prefer a PDF? <a href="/files/abylaikhan_portfolio.pdf">Download the portfolio</a>.</p>
+
 <div class="projects-toolbar" data-filter-toolbar markdown="0">
   <span class="chip is-active" data-filter="all">All</span>
   <span class="chip" data-filter="mechanical design">Mechanical design</span>
@@ -20,4 +22,3 @@ Things I've designed, built and tested over the last few years — research rigs
 
 {% include project-grid.html id="all-projects" %}
 
-<p class="small muted">Prefer a PDF? The <a href="/files/abylaikhan_portfolio.pdf">portfolio PDF</a> has one page per project.</p>
